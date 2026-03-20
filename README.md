@@ -1,8 +1,8 @@
-\# 📊 Agrofit Data Pipeline \& BI Analysis
+📊 Agrofit Data Pipeline \& BI Analysis
 
 
 
-\## 🧠 Sobre o Projeto
+🧠 Sobre o Projeto
 
 
 
@@ -14,11 +14,11 @@ A solução contempla desde a ingestão e tratamento dos dados até a modelagem 
 
 
 
-\---
 
 
 
-\## 🎯 Objetivos
+
+🎯 Objetivos
 
 
 
@@ -38,7 +38,7 @@ A solução contempla desde a ingestão e tratamento dos dados até a modelagem 
 
 
 
-\## ⚙️ Tecnologias Utilizadas
+⚙️ Tecnologias Utilizadas
 
 
 
@@ -58,7 +58,7 @@ A solução contempla desde a ingestão e tratamento dos dados até a modelagem 
 
 
 
-\## 🏗️ Estrutura do Projeto
+ 🏗️ Estrutura do Projeto
 
 
 
@@ -100,7 +100,7 @@ agrofit-case/
 
 
 
-\## 🔄 Pipeline de Dados
+🔄 Pipeline de Dados
 
 
 
@@ -108,7 +108,7 @@ O pipeline foi estruturado nas seguintes etapas:
 
 
 
-\### 1. Ingestão
+ 1. Ingestão
 
 
 
@@ -118,7 +118,7 @@ O pipeline foi estruturado nas seguintes etapas:
 
 
 
-\### 2. Limpeza
+2. Limpeza
 
 
 
@@ -130,7 +130,7 @@ O pipeline foi estruturado nas seguintes etapas:
 
 
 
-\### 3. Transformação
+ 3. Transformação
 
 
 
@@ -142,7 +142,7 @@ O pipeline foi estruturado nas seguintes etapas:
 
 
 
-\### 4. Modelagem
+4. Modelagem
 
 
 
@@ -154,7 +154,7 @@ O pipeline foi estruturado nas seguintes etapas:
 
 
 
-\### 5. Exportação
+ 5. Exportação
 
 
 
@@ -174,7 +174,7 @@ O modelo segue o padrão \*\*Star Schema\*\*, com suporte a relações muitos-pa
 
 
 
-\### 🔷 Tabela Fato
+ 🔷 Tabela Fato
 
 
 
@@ -182,7 +182,7 @@ O modelo segue o padrão \*\*Star Schema\*\*, com suporte a relações muitos-pa
 
 
 
-\### 🟨 Dimensões
+🟨 Dimensões
 
 
 
@@ -198,7 +198,7 @@ O modelo segue o padrão \*\*Star Schema\*\*, com suporte a relações muitos-pa
 
 
 
-\### 🟩 Tabelas de Relacionamento (Bridge)
+ 🟩 Tabelas de Relacionamento (Bridge)
 
 
 
@@ -214,7 +214,7 @@ O modelo segue o padrão \*\*Star Schema\*\*, com suporte a relações muitos-pa
 
 
 
-\## 🔗 Relacionamentos
+ 🔗 Relacionamentos
 
 
 
@@ -230,7 +230,7 @@ O modelo segue o padrão \*\*Star Schema\*\*, com suporte a relações muitos-pa
 
 
 
-\## 📊 Dashboard (Power BI)
+ 📊 Dashboard (Power BI)
 
 
 
@@ -238,7 +238,7 @@ O dashboard foi estruturado em três níveis analíticos:
 
 
 
-\### 1. Visão Geral
+ 1. Visão Geral
 
 
 
@@ -250,7 +250,7 @@ O dashboard foi estruturado em três níveis analíticos:
 
 
 
-\### 2. Análise Técnica
+ 2. Análise Técnica
 
 
 
@@ -262,7 +262,7 @@ O dashboard foi estruturado em três níveis analíticos:
 
 
 
-\### 3. Deep Dive (Aprofundamento)
+ 3. Deep Dive (Aprofundamento)
 
 
 
@@ -278,7 +278,7 @@ O dashboard foi estruturado em três níveis analíticos:
 
 
 
-\## 💡 Principais Insights
+💡 Principais Insights
 
 
 
@@ -298,11 +298,11 @@ O dashboard foi estruturado em três níveis analíticos:
 
 
 
-\## ▶️ Como Executar
+▶️ Como Executar
 
 
 
-\### 1. Criar ambiente virtual
+ 1. Criar ambiente virtual
 
 
 
@@ -314,7 +314,7 @@ python -m venv venv
 
 
 
-\### 2. Ativar ambiente
+ 2. Ativar ambiente
 
 
 
@@ -326,7 +326,7 @@ venv\\Scripts\\activate
 
 
 
-\### 3. Instalar dependências
+ 3. Instalar dependências
 
 
 
@@ -338,7 +338,7 @@ pip install pandas
 
 
 
-\### 4. Executar pipeline
+4. Executar pipeline
 
 
 
@@ -350,7 +350,7 @@ python main.py
 
 
 
-\### 5. Saída
+5. Saída
 
 
 
@@ -370,7 +370,7 @@ data/processed/
 
 
 
-\## 📌 Decisões Técnicas
+📌 Decisões Técnicas
 
 
 
@@ -388,7 +388,7 @@ data/processed/
 
 
 
-\## 🚀 Possíveis Melhorias
+🚀 Possíveis Melhorias
 
 
 
@@ -406,7 +406,7 @@ data/processed/
 
 
 
-\## 👤 Autor
+👤 Autor
 
 
 
@@ -418,7 +418,7 @@ Projeto desenvolvido por \*\*Gelson Moraes\*\* como parte de processo seletivo p
 
 
 
-\## 📎 Observação Final
+📎 Observação Final
 
 
 
