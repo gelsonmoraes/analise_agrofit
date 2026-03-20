@@ -1,0 +1,3034 @@
+id_nome,id_praga,praga_nome_comum
+1,1,Percevejo-castanho
+2,2,Bicudo da cana-de-açúcar
+3,2,Gorgulho-da-cana
+4,3,Lagarta-militar
+5,4,fungus gnats
+6,5,angiquinho
+7,5,maricazinho
+8,5,paquinha
+9,6,bredo
+10,6,caruru
+11,6,caruru-de-mancha
+12,7,fura-capa
+13,7,pico-pico
+14,7,picão
+15,8,capim-de-cheiro
+16,8,chufa
+17,8,junquinho
+18,9,capim-de-botão
+19,9,junça-de-botão
+20,9,tiririca
+21,10,capim-colchão
+22,10,capim-de-roça
+23,10,capim-milhã
+24,11,capim-colchão
+25,11,capim-das-roças
+26,11,milhã
+27,12,capim-da-cidade
+28,12,capim-de-pomar
+29,12,capim-pé-de-galinha
+30,13,capim-de-canário
+31,13,capim-de-rola
+32,13,capim-mimoso
+33,14,amendoim-bravo
+34,14,café-do-diabo
+35,14,flor-de-poetas
+36,15,falso-alecrim-da-praia
+37,16,estrelinha
+38,16,flor-amarela
+39,16,flor-de-ouro
+40,17,capim-milhã
+41,17,milhã-roxa
+42,17,milhã-vermelha
+43,18,balão-rajado
+44,18,balãozinho
+45,18,joá-de-capote
+46,19,beldroega
+47,19,bredo-de-porco
+48,19,ora-pro-nobis
+49,20,fedegoso-branco
+50,20,mata-pasto
+51,20,mata-pasto-liso
+52,21,malvinha
+53,21,relógio
+54,21,vassourinha
+55,22,guanxuma
+56,22,malva
+57,22,malva-branca
+58,23,guanxuma-branca
+59,23,malva-guaxima
+60,23,mata-pasto
+61,24,guanxuma
+62,24,mata-pasto
+63,24,relógio
+64,25,erva-lombrigueira
+65,25,lombrigueira
+66,25,pimenta-da-água
+67,26,arranha-gato
+68,26,buva
+69,26,rabo-de-foguete
+70,27,campainha
+71,27,corda-de-viola
+72,27,corriola
+73,28,Corda de viola
+74,28,Corriola
+75,29,amarra-amarra
+76,29,campainha
+77,29,corda-de-viola
+78,30,erva-de-lavadeira
+79,30,fruto-de-cobra
+80,30,melão-de-são-caetano
+81,31,carrapateira
+82,31,mamona
+83,31,palma-de-cristo
+84,32,barbadinho
+85,32,serra-goela
+86,32,sessenta-feridas
+87,33,acacia-de-espinho
+88,33,arranha-gato
+89,33,unha-de-gato
+90,34,alecrim
+91,34,alecrim-falso
+92,34,mio-mio
+93,35,carqueja
+94,35,carqueja-amarga
+95,35,tiririca-de-bebado
+96,36,espinho-agulha
+97,37,Unha-de-boi
+98,38,unha-de-vaca
+99,39,capexingui
+100,39,capixingui
+101,39,tapixingui
+102,40,gervão
+103,40,gervão-branco
+104,40,malva-vermelha
+105,41,aguapé
+106,41,baronesa
+107,41,camalote
+108,43,cambarazinho
+109,43,eupatório
+110,43,falso-cambará
+111,44,bamburral
+112,44,betônica-brava
+113,44,cheirosa
+114,45,jacarandá-de-bico-de-pato
+115,45,jacarandá-de-espinho
+116,45,pau-de-angu
+117,46,coentro-do-mato
+118,46,fazendeiro
+119,46,losna-branca
+120,47,leiteira
+121,47,leiteiro
+122,48,plantagem
+123,48,tanchagem
+124,48,tanchagem-maior
+125,49,erva-de-bicho
+126,50,pluma-grande
+127,50,samambaia
+128,50,samambaia-das-taperas
+129,51,angélica
+130,51,espinho-de-agulha
+131,51,espinho-de-carneiro
+132,52,aroeira-mansa
+133,52,aroeira-pimenteira
+134,52,aroeira-vermelha
+135,53,flor-das-almas
+136,53,flor-de-finados
+137,53,maria-mole
+138,54,fedegoso
+139,54,mamangá
+140,54,manjerioba
+141,55,guanxuma
+142,55,malva
+143,55,malva-preta
+144,56,guanxuma
+145,56,malva-roxa
+146,56,vassourinha
+147,57,arrebenta-boi
+148,57,arrebenta-cavalo
+149,57,joá-bravo
+150,58,beringela
+151,58,fruta-de-lobo
+152,58,jurubebão
+153,59,amor-de-cunhã
+154,60,arrebenta-cavalo
+155,60,joá
+156,60,joá-bravo
+157,61,arnica-do-brasil
+158,61,erva-lanceta
+159,61,espiga-de-ouro
+160,62,erva-de-lagarto
+161,62,erva-quente
+162,62,perpetua-do-mato
+163,63,poaia-botão
+164,63,poaia-preta
+165,63,poaia-rosário
+166,64,tojo
+167,65,assa-peixe
+168,65,assa-peixe-branco
+169,65,cambará-açú
+170,66,assa-peixe
+171,66,assa-peixe-roxo
+172,66,chamarrita
+173,67,falsa-guaxuma
+174,67,malva-branca
+175,67,malva-sedosa
+176,68,campainha
+177,68,corda-de-viola
+178,68,corriola
+179,69,batatão-roxo
+180,69,corda-de-viola
+181,69,jetirana
+182,70,gerobeba
+183,70,jupeba
+184,70,jurubeba
+185,71,assa-peixe
+186,71,chamarrita
+187,71,erva-de-mula
+188,72,algodão
+189,73,carrapicho-de-carneiro
+190,73,chifre-de-veado
+191,73,espinho-de-carneiro
+192,74,catinga-de-bode
+193,74,erva-de-são-joão
+194,74,mentrasto
+195,75,bredo
+196,75,bredo-rasteiro
+197,75,caruru
+198,76,bredo
+199,76,caruru-branco
+200,76,caruru-roxo
+201,77,angiquinho
+202,77,corticeirinha
+203,77,maricazinho
+204,78,marianinha
+205,78,mata-brasil
+206,78,trapoeraba
+207,79,botão-de-ouro
+208,79,fazendeiro
+209,79,picão-branco
+210,80,nabiça
+211,80,nabo
+212,80,nabo-bravo
+213,81,chicória-brava
+214,81,serralha
+215,81,serralha-lisa
+216,82,colza
+217,82,mostarda
+218,82,mostarda-selvagem
+219,83,chá-de-frade
+220,83,cordão-de-são-francisco
+221,83,erva-macaé
+222,84,mastruz
+223,84,mastruço
+224,84,mentrusto
+225,85,poaia
+226,85,poaia-branca
+227,85,poaia-do-campo
+228,86,apaga-fogo
+229,86,corrente
+230,86,periquito
+231,87,alho
+232,87,capim-dandá
+233,87,junça-aromática
+234,88,bela-emilia
+235,88,falsa-serralha
+236,88,pincel
+237,89,bredo
+238,89,caruru
+239,89,caruru-gigante
+240,91,soja
+241,92,erva-de-bicho
+242,92,erva-moura
+243,92,maria-pretinha
+244,93,joá-bagudo
+245,93,joá-bravo
+246,93,juá
+247,94,erva-de-lagarto
+248,94,erva-quente
+249,94,perpetua-do-mato
+250,95,campainha
+251,95,corda-de-viola
+252,95,corriola
+253,14,Leiteiro
+254,96,cambará-roxo
+255,96,casadinha
+256,96,chilca
+257,97,guanxuma
+258,97,guanxumona
+259,97,guaxima
+260,98,agrião-do-pasto
+261,98,agriãozinho
+262,98,poejinho
+263,99,cipó
+264,99,cipó-de-veado
+265,99,cipó-de-veado-de-inverno
+266,100,bredo-branco
+267,100,bredo-de-espinho
+268,100,caruru-de-espinho
+269,101,balão
+270,101,bexiga
+271,101,joá-de-capote
+272,102,ambrosia-americana
+273,102,carprineira
+274,102,cravorana
+275,103,mata-pasto
+276,104,cipó-alho
+277,104,cipó-de-cobra
+278,104,cipó-de-sino
+279,105,amarelinho
+280,105,bignonia-amarela
+281,105,guarã-guarã
+282,106,assa-peixe
+283,106,erva-preá
+284,106,pau-de-moquem
+285,107,mamica-de-porca
+286,107,maminha
+287,107,maminha-de-porca
+288,108,braquiária
+289,108,braquiária-decumbens
+290,108,capim-braquiária
+291,110,Capim colchão
+292,111,capim-coloninho
+293,111,capim-colonião
+294,111,capim-guiné
+295,112,Pulgão-das-inflorescências
+296,112,Pulgão-do-algodoeiro
+297,113,Manchador-do-algodoeiro
+298,113,Percevejo-manchador
+299,114,Lagarta-do-algodão
+300,115,Pulgão-das-solanáceas
+301,115,Pulgão-verde-escuro
+302,116,Bicho-furão
+303,117,Cigarrinha-do-milho
+304,118,Percevejo-barriga-verde
+305,119,Pulgão-do-milho
+306,119,Pulgão-dos-cereais
+307,120,Percevejo-marrom
+308,121,Pulgão-verde
+309,121,Pulgão-verde-claro
+310,122,Nematoide de galhas
+311,123,Nematóide das lesões
+312,124,Fungo-de-pós-colheita
+313,124,Podridão-dos-grãos-armazenados
+314,125,Podridão-de-Fusarium
+315,125,Podridão-do-colmo
+316,126,Bolor-azul
+317,126,Olho-azul
+318,127,Podridão-da-semente
+319,127,Podridão-de-Fusarium
+320,128,Phomopsis-da-semente
+321,129,Damping-off
+322,129,Podridão-aquosa
+323,129,Tombamento
+324,130,Mofo branco
+325,131,Mosca-branca
+326,132,Tripes
+327,133,Cupim
+328,133,Cupim-de-montículo
+329,134,Tripes-do-amendoim
+330,134,Tripes-do-bronzeamento
+331,135,Bicheira-da-raiz-do-arroz
+332,135,Gorgulho-aquático-do-arroz
+333,136,Cupim-de-monte
+334,136,Cupim-de-montículo
+335,137,Bicho-bolo
+336,137,Pão-de-galinha
+337,138,Pulgão-da-folha
+338,138,Pulgão-verde-pálido
+339,139,Pulgão-da-espiga
+340,139,Pulgão-verde
+341,139,Pulgão-verde-dos-cereais
+342,140,Cigarrinha-das-pastagens
+343,140,Cigarrinha-dos-capinzais
+344,141,Larva-alfinete
+345,141,Vaquinha-verde-amarela
+346,142,Percevejo-barriga-verde
+347,143,Tripes
+348,136,Cupim
+349,144,Coró
+350,145,Mancha-foliar
+351,145,Mancha-parda
+352,146,Brusone
+353,147,Antracnose
+354,148,Mancha-angular
+355,149,Ferrugem
+356,150,Crestamento-foliar
+357,150,Mancha-púrpura-da-semente
+358,151,Oídio
+359,152,Mancha-parda
+360,152,Septoriose
+361,153,Helminthosporiose
+362,153,Podridão-comum-da-raiz
+363,154,Oídio
+364,155,Mancha-amarela
+365,155,Mancha-bronzeada-da-folha
+366,156,Fusariose
+367,156,Giberela
+368,157,Ferrugem-da-folha
+369,158,capim-marmelada
+370,158,capim-papuã
+371,158,capim-são-paulo
+372,159,capim-da-cidade
+373,159,capim-de-burro
+374,159,grama-bermuda
+375,160,capim amargoso
+376,160,capim açu
+377,160,capim flexa
+378,161,azevém
+379,161,azevém-anual
+380,161,azevém-italiano
+381,162,bambuzinho
+382,162,capim-rabo-de-gato
+383,162,capim-rabo-de-raposa
+384,163,capim-argentino
+385,163,capim-cevada
+386,163,capim-massambará
+387,164,milho
+388,109,capim-amoroso
+389,109,capim-carrapicho
+390,109,capim-roseta
+391,165,capim-arroz
+392,165,capim-canevão
+393,165,capim-jaú
+394,166,capim-avião
+395,166,capim-custódio
+396,166,capim-mandante
+397,167,Mosca-branca
+398,168,Broca-do-caule-do-tomateiro
+399,168,Broca-do-fumo
+400,169,Fusariose
+401,169,Podridão-por-Fusarium
+402,170,Ramulose
+403,170,Tombamento
+404,171,Crestamento
+405,171,Mancha-púrpura
+406,172,Ferrugem
+407,173,Cercosporiose
+408,173,Mancha-castanha
+409,174,Mancha-preta
+410,175,Helmintosporiose
+411,176,Ferrugem-da-folha
+412,177,Sigatoka-negra
+413,178,Mal-de-Sigatoka
+414,178,Sigatoka-amarela
+415,179,Pinta-preta
+416,179,Pinta-preta-grande
+417,179,Mancha-de-Alternaria
+418,180,Cercosporiose
+419,180,Mancha-das-folhas
+420,181,Vassoura-de-bruxa
+421,182,Mancha-das-folhas
+422,182,Mancha-de-Ascochyta
+423,183,Cercosporiose
+424,183,Mancha-de-olho-pardo
+425,184,ferrugem-do-cafeeiro
+426,185,Mancha-de-Phoma
+427,185,Seca-de-ponteiros
+428,186,Mancha-de-Alternaria
+429,186,Queima-das-folhas
+430,153,Mancha-marrom
+431,187,Cinza
+432,187,Oídio
+433,188,Ferrugem-da-folha
+434,189,Antracnose
+435,190,Ferrugem-branca
+436,191,Mancha-de-Alternaria
+437,192,Ferrugem
+438,193,Ferrugem
+439,194,Ferrugem
+440,195,Cinza
+441,195,Oídio
+442,196,Clodosporiose
+443,196,Verrugose
+444,197,Antracnose
+445,197,Podridão-amarga
+446,198,Crestamento-gomoso-do-caule
+447,198,Podridão-amarga
+448,199,Míldio-pulverulento
+449,199,Oídio
+450,200,Cercosporiose
+451,201,Ferrugem
+452,201,Ferrugem-polisora
+453,202,Ferrugem
+454,202,Ferrugem-comum
+455,203,Mancha-de-Mycosphaerella
+456,203,Mancha-foliar
+457,204,Mancha-de-Leandria
+458,204,Mancha-zonada
+459,205,Podridão-parda
+460,206,Ferrugem
+461,207,Mancha-das-folhas
+462,208,Doença-açúcarada-do-sorgo
+463,208,Ergot
+464,209,Pinta-preta-pequena
+465,209,Septoriose
+466,210,Cinza
+467,210,Oídio
+468,211,Ferrugem-do-colmo
+469,189,Podridão-da-uva-madura
+470,212,Ferrugem
+471,213,Oídio
+472,214,Ferrugem-do-Álamo
+473,215,Meloidoginose
+474,215,Nematóide-das-galhas
+475,122,Meloidoginose
+476,122,Nematóide-das-galhas
+477,123,Nematóide-das-lesões
+478,216,Larva-minadora
+479,216,Mosca-minadora
+480,217,Bicho-mineiro-do-café
+481,217,Larva-minadora
+482,218,Aranha-vermelha-do-cafeeiro
+483,218,Ácaro-vermelho
+484,219,Nematóide
+485,219,Nematóide-espiralado
+486,220,Nematóide
+487,221,Ácaro-da-leprose
+488,221,Ácaro-plano
+489,222,Ácaro-purpúreo
+490,223,Larva-minadora-das-folhas
+491,223,Minadora-das-folhas
+492,224,Ácaro-branco
+493,224,Ácaro-tropical
+494,225,Ácaro-rajado
+495,226,Ácaro-verde
+496,226,Ácaro-verde-do-feijoeiro
+497,227,Larva-minadora
+498,227,Mosca-minadora
+499,228,Traça-do-tomateiro
+500,229,Ferrugem
+501,229,Ferrugem-do-cafeeiro
+502,230,Mancha-em-rede-da-cevada
+503,230,Mancha-reticular
+504,231,Mancha-cinzenta-da-haste
+505,232,Ferrugem
+506,233,Mancha-de-Phaeosphaeria
+507,233,Mancha-foliar
+508,234,Mancha-alvo
+509,235,Mancha-salpicada
+510,235,Septoriose
+511,236,Lagarta-das-maçãs
+512,3,Lagarta-do-cartucho
+513,237,Lagarta-falsa-medideira
+514,238,Lagarta-das-folhas
+515,238,Lagarta-das-vagens
+516,239,Curuquerê
+517,239,Curuquerê-do-algodoeiro
+518,240,Ácaro-vermelho
+519,241,Nematóide-do-alho
+520,242,Cegadeira
+521,242,Traça-da-batatinha
+522,243,Ácaro-da-falsa-ferrugem
+523,243,Ácaro-da-mulata
+524,244,Ácaro-da-necrose-do-coqueiro
+525,245,Broca-da-figueira
+526,245,Broca-do-ramo
+527,246,Cochonilha-escama-farinha
+528,247,Ácaro-da-macieira
+529,247,Ácaro-vermelho-europeu
+530,248,Ácaro-do-enfezamento
+531,242,Traça-da-batata
+532,249,Ácaro-bronzeado
+533,249,Ácaro-do-bronzeamento
+534,250,Mosca-minadora
+535,251,Larva-minadora
+536,251,Mosca-minadora
+537,252,nematóide de cisto da soja (NCS)
+538,253,Lagarta da soja
+539,254,Curuquerê-da-couve
+540,254,Lagarta-da-couve
+541,255,Lagarta-das-palmeiras
+542,255,Lagarta-do-coqueiro
+543,256,Broca-das-cucubirtaceas
+544,257,Lagarta-helicoverpa
+545,258,Traça-das-cruciferas
+546,259,chá-de-lagoa
+547,259,macela
+548,259,macela-amarela
+549,260,Mancha-barrenta
+550,260,Mancha-de-Ascochyta
+551,261,Verrugose
+552,262,Mela
+553,262,Requeima
+554,263,Mancha-de-Cercospora
+555,263,Queima-das-folhas
+556,264,Verrugose
+557,264,Verrugose-da-laranja-azeda
+558,265,Míldio
+559,266,Podridão-de-Ascochyta
+560,267,Mancha-de-Stemphylium
+561,268,Mofo-cinzento
+562,268,Podridão-cinzenta-dos-botões
+563,268,Podridão-da-flor
+564,269,Míldio
+565,270,Míldio
+566,271,Mancha-das-glumas
+567,272,Antracnose
+568,273,Mofo
+569,273,Míldio
+570,274,Falso-oídio
+571,274,Ramulária
+572,275,Brusone
+573,276,Podridão-de-Ascochyta
+574,277,Cinza
+575,277,Míldio
+576,278,Sarna
+577,278,Varíola
+578,189,Mancha-foliar-da-gala
+579,279,Sarna
+580,279,Sarna-da-macieira
+581,280,Ferrugem da soja
+582,280,"ferrugem ""asiática"""
+583,281,Cochonilha
+584,282,Cigarrinha
+585,283,Mosca-das-frutas
+586,283,Mosca-sul-americana
+587,284,Mariposa-oriental
+588,285,Pulgão
+589,285,Pulgão-da-espiga
+590,286,Ácaro vermelho das palmeiras
+591,286,
+592,3,Lagarta das folhas
+593,287,Ácaro-texano
+594,288,amarra-amarra
+595,288,campainha
+596,288,corda-de-viola
+597,289,Lagarta-falsa-medideira.
+598,290,Tripes-do-amendoim
+599,290,Tripes-do-prateamento
+600,291,Cigarrinha
+601,291,Cigarrinha-verde
+602,292,Lagarta-do-pescoço-vermelho
+603,293,Cochonilha-Orthezia
+604,293,Cochonilha-de-placa
+605,294,Cochonilha-Parlatoria
+606,294,Cochonilha-da-raiz
+607,295,Cochonilha-pardinha
+608,296,Manhoso
+609,297,Lagarta-do-feijão
+610,297,Lagarta-enroladeira-das-folhas
+611,253,Lagarta-da-soja
+612,253,Lagarta-desfolhadora
+613,298,Tripes
+614,298,Tripes-do-feijoeiro
+615,299,Tripes
+616,300,Fede-fede
+617,300,Percevejo-verde
+618,301,Falsa-medideira-da-couve
+619,301,Lagarta-mede-palmo
+620,302,Broca-grande-do-fruto
+621,302,Broca-grande-do-tomate
+622,303,Ácaro-vermelho
+623,304,Tripes
+624,305,Tripes
+625,305,Tripes-do-fumo
+626,306,Broca-da-raiz
+627,306,Broca-do-algodoeiro
+628,307,Broca-das-axilas
+629,307,Broca-das-axilas-da-soja
+630,308,Percevejo-pequeno
+631,308,Percevejo-verde-pequeno
+632,289,Lagarta-falsa-medideira
+633,290,Tipes
+634,309,Broca-do-colo
+635,309,Lagarta-elasmo
+636,310,Lagarta-do-linho
+637,310,Lagarta-falsa-medideira
+638,311,Gorgulho-da-soja
+639,311,Tamanduá-da-soja
+640,167,mosca-branca
+641,312,Pulgão
+642,312,Pulgão-da-couve
+643,313,Psilídeo
+644,314,Psilideo de concha
+645,167,Mosca branca
+646,315,Mosca-branca
+647,167,Mosca Branca
+648,167,Mosca-Branca
+649,119,Pulgão-dos cereais
+650,282,Cigarrinha Verde
+651,316,Lagarta-falsa-medideira
+652,316,Lagarta-mede-palmo
+653,317,Broca-da-erva-mate
+654,318,arrozinho
+655,318,grama-boiadeira
+656,318,pastinho-d ́água
+657,319,arroz
+658,319,arroz-preto
+659,319,arroz-vermelho
+660,320,aveia
+661,321,aveia-brasileira
+662,321,aveia-preta
+663,321,aveia-voluntária
+664,322,cevada
+665,323,trigo
+666,324,Cochonilha branca
+667,325,Cochonilha-da-cana
+668,326,Bicudo
+669,327,Percevejo
+670,328,Broca-do-café
+671,121,PULGÃO - VERDE
+672,121,Pulgão verde
+673,329,Percevejo-bronzeado
+674,141,Vaquinha
+675,141,Vaquinha-Verde-Amarela
+676,324,Cochonilha-branca
+677,304,tripes
+678,118,percevejo-barriga-verde
+679,330,Pulgão-preto
+680,330,Pulgão-preto-dos-citrus
+681,313,.
+682,291,.
+683,283,Mosca - sul- americana
+684,331,Percevejo-barriga-verde
+685,2,Bicudo da Cana-de-açucar
+686,332,Mosca-negra-dos-citros
+687,333,Tripes-do-cacaueiro
+688,334,carrapicho
+689,334,carrapicho-beiço-de-boi
+690,334,desmodio
+691,335,catirina
+692,335,cheirosa
+693,335,fazendeiro
+694,336,Anileira
+695,337,capim-de-cheiro
+696,337,capim-santo
+697,337,junquinho
+698,338,carrapicho
+699,338,carrapicho-beiço-de-boi
+700,338,marmelada-de-cavalo
+701,339,anil
+702,339,anil-roxo
+703,339,anileira
+704,340,botão-de-cachorro
+705,340,estrelinha
+706,340,flor-amarela
+707,132,Trips
+708,114,Lagarta
+709,118,PERCEVEJO- BARRIGA VERDE
+710,341,Broca-da-cana
+711,341,Broca-do-colmo
+712,118,Percevejo-barriga verde
+713,305,Tripes do fumo
+714,342,Falsa-Medideira
+715,118,Percevejo barriga verde
+716,120,Percevejo marrom
+717,114,Lagarta-das-vagens
+718,225,Ácaro rajado
+719,298,Tripes do feijoeiro
+720,120,Percevejo Marrom
+721,114,Lagarta Helicoverpa
+722,343,Larva minadora
+723,345,Antracnose
+724,345,Tombamento
+725,346,Fusariose
+726,346,Murcha-de-Fusarium
+727,347,Podridão-das-maçãs
+728,347,Podridão-de-frutos
+729,348,Fungo-de-armazenamento
+730,349,Mancha-de-Alternaria
+731,350,Tombamento
+732,351,Amarelecimento-de-Fusarium
+733,351,Mancha-de-Fusarium
+734,352,Podridão-radicular-seca
+735,353,Tombamento
+736,129,mela
+737,129,podridão radicular
+738,354,Antracnose-do-colmo
+739,354,Podridão-de-Colletotrichum
+740,353,Estiolamento
+741,353,Podridão-de-raízes
+742,355,Podridão-branca-das-espigas
+743,355,Podridão-de-Diplodia
+744,356,antracnose
+745,357,Cancro-da-haste
+746,358,Podridão-de-aspergillus
+747,359,Antracnose
+748,360,-
+749,361,Antracnose
+750,362,Fusariose
+751,350,-
+752,363,-
+753,364,-
+754,354,Antracnose
+755,365,Antracnose
+756,156,-
+757,366,-
+758,364,Podridão-de-raízes
+759,364,Tombamento
+760,367,Pinta Preta
+761,147,Antractonose
+762,368,Ferrugem do milheto
+763,369,Helminthosporium
+764,369,Mancha-foliar
+765,370,Cercospora flagelaris
+766,371,-
+767,372,Antracnose
+768,373,Diaporthe longicolla
+769,374,-
+770,375,Diaporthe miriciae
+771,376,Fusarium equiseti
+772,377,Fusarium incarnatum
+773,378,Fusarium proliferatum
+774,379,Ferrugem
+775,380,Cochonilha-do-abacaxi
+776,380,Cochonilha-pulverulenta-do-abacaxi
+777,381,Cupim-de-monte
+778,381,Cupim-de-montículo
+779,327,Percevejo-grande-do-arroz
+780,382,Larva-arame
+781,382,Verme-arame
+782,383,Cochonilha-da-raiz
+783,383,Cochonilha-da-raiz-do-cafeeiro
+784,384,Cigarrinha
+785,384,Cigarrinha-da-cvc
+786,385,Cigarra-do-cafeeiro
+787,386,Cupins
+788,387,Cigarrinha-das-raízes
+789,387,Cigarrinha-vermelha
+790,388,Cochonilha-de-carapaça
+791,388,Picuinha
+792,389,Pulgão
+793,389,Pulgão-do-feijoeiro
+794,390,Cupim
+795,391,Vespa-da-galha
+796,392,Pulga-do-fumo
+797,392,Vaquinha-do-fumo
+798,393,Pulgão
+799,393,Pulgão-do-fumo
+800,394,Pulgão-do-morangueiro
+801,395,Cochonilha-pérola-da-terra
+802,395,Margarodes
+803,396,Palma forregeira
+804,397,Caruncho-dos-cereais
+805,397,Gorgulho-das-grãos-armazenados
+806,398,Caruncho-dos-cereais
+807,398,Gorgulho-do-milho
+808,399,Traça-dos-cereais
+809,399,Tínea-dos-cereais
+810,398,Caruncho-dos-cereais ou gorgulho
+811,400,Besourinho
+812,401,erva-andorinha
+813,401,erva-de-cobre
+814,401,erva-de-sangue
+815,402,erva-de-touro
+816,403,abrolho
+817,403,carrapicho-bravo
+818,403,carrapicho-grande
+819,404,Podridão-branca
+820,404,Seca-do-ramo
+821,405,Podridão Olho de Boi
+822,406,Bolor-azul
+823,407,Crestamento-bacteriano
+824,407,Mancha-angular
+825,408,Amarelinho
+826,408,Clorose-variegada-dos-citros
+827,409,Bacteriose
+828,410,Bacteriose
+829,411,BGMV
+830,411,Mosaico dourado
+831,412,Canela-preta
+832,412,Crestamento-bacteriano-comum
+833,413,Mancha-aquosa
+834,414,Pinta-bacteriana
+835,415,Mancha-bacteriana
+836,416,Pulgão da raíz
+837,112,pulgão
+838,417,Coró
+839,418,Cupim
+840,419,Torrãozinho
+841,420,Mancha reticular
+842,421,Verrugose
+843,421,Verrugose-da-laranja-doce
+844,422,Septoriose
+845,423,Mancha-de-Phoma
+846,424,Oídio
+847,425,Podridão-de-raízes
+848,426,Oídio
+849,427,Queima-foliar
+850,428,Mancha-das-bainhas
+851,429,Oídio
+852,430,Ferrugem-da-folha
+853,431,Oídio
+854,432,Cercosporiose
+855,432,Mancha-angular
+856,433,Pinta-preta
+857,434,Oídio
+858,435,Oídio
+859,194,Ferrugem do eucalipto
+860,436,Mancha de alternaria
+861,437,Oídio
+862,266,Podridão-de-ascoschyta
+863,438,Branco-da-roseira
+864,438,Oídio
+865,439,carrapichinho
+866,439,carrapicho-rasteiro
+867,439,maroto
+868,440,junquinho
+869,440,tiririca
+870,440,tiririca-do-brejo
+871,441,cabelo-de-negro
+872,441,cuminho
+873,441,falso-cominho
+874,442,cruz-de-malta
+875,442,ludwigia
+876,443,cruz-de-malta
+877,443,ludwigia
+878,444,aguapé
+879,444,chapéu-de-couro
+880,444,flecha
+881,445,aguapé-de-flexa
+882,445,flecha
+883,445,sagitária
+884,447,Buva
+885,448,burra-leiteira
+886,448,erva-andorinha
+887,448,erva-de-santa luzia
+888,449,Lagarta-das-folhas
+889,449,Lagarta-do-maracujazeiro
+890,450,Broca-do-morango
+891,258,Traça-das-crucíferas
+892,451,mastruz
+893,451,mastruço
+894,451,mentrusto
+895,452,labaça
+896,452,língua-de-vaca
+897,453,erva-branca
+898,453,erva-macia
+899,453,macela-branca
+900,454,junquinho
+901,454,junça
+902,454,tiririca
+903,455,aguapé-mirim
+904,455,hortelã-do-brejo
+905,455,pavoa
+906,167,Mosca  branca
+907,305,-
+908,456,Ácaro-vermelho-doamendoim
+909,457,Estria vermelho
+910,182,Mancha das folhas
+911,183,Olho pardo
+912,234,Mancha alvo
+913,185,Seca de ponteiros
+914,274,Falso oídio
+915,274,Ramularia
+916,130,Mofo-branco
+917,129,Crosta-preta
+918,130,Podridão-de-Sclerotinia
+919,458,Sarna pulverulenta
+920,459,Sarna comum
+921,460,Podridão-abacaxi.
+922,130,Podridão-branca
+923,461,Podridão-de-raízes
+924,252,Nematoide-de-cisto-da-soja
+925,462,Nematoide das galhas
+926,215,Nematoide-das-galhas
+927,463,Cochonilha
+928,463,Cochonilha-do-coqueiro
+929,464,Cochonilha
+930,465,Cochonilha-parda
+931,466,Cochonilha-branca
+932,466,Cochonilha-da-raiz
+933,467,Cochonilha-verde
+934,467,Cochonilha-verde-do-cafeeiro
+935,468,Cochonilha-parda
+936,469,Mosca-branca-dos-citrus
+937,469,Piolho-farinhento
+938,470,Cabeça-de-prego-rosa
+939,470,Cochonilha-cabeça-de-prego
+940,471,Cochonilha-cabeça-de-prego
+941,471,Cochonilha-com-carapaça
+942,472,Ácaro-das-gemas
+943,473,Cochonilha-australiana
+944,473,Pulgão-branco
+945,474,Cochonilha-escama-vírgula
+946,475,Cochonilha
+947,475,Cochonilha-do-figo
+948,476,Cochonilha-da-figueira
+949,477,Pulgão-lanígero
+950,477,Pulgão-lanígero-da-macieira
+951,478,Cochonilha-amarela
+952,478,Cochonilha-do-lenho
+953,479,Cochonilha-branca
+954,479,Cochonilha-do-lenho
+955,480,Cochonilha
+956,480,Piolho-de-são-josé
+957,481,Cochonilha
+958,481,Cochonilha-de-placa
+959,482,braquiarão
+960,482,braquiária-brizanta
+961,482,braquiária-do-alto
+962,483,Moleque da bananeira
+963,117,cigarrinha-do-milho
+964,328,Broca do café
+965,484,Lagarta-enroladeira
+966,485,Traça-dos-cachos
+967,486,Broca-das-cucurbitáceas
+968,487,Broca-pequena-do-fruto
+969,488,Mancha-castanha
+970,488,Mancha-preta
+971,489,Podridão-parda
+972,490,Gomose
+973,490,Podridão-de-Phytophthora
+974,491,Mosca-branca
+975,492,Oídio do cajueiro
+976,492,Oídio do feijoeiro
+977,493,Lagarta-rosada
+978,494,Lagarta-rosca
+979,495,Cochonilha
+980,496,Lagarta-do-trigo
+981,497,Mosca-das-frutas
+982,497,Mosca-do-mediterrâneo
+983,498,Broca-da-vagem
+984,498,Lagarta-das-vagens
+985,499,Lagarta-da-vagem-do-feijão
+986,499,Lagarta-das-vagens
+987,500,Lagarta-enroladeira-da-folha
+988,501,Curuquerê-dos-capinzais
+989,501,Mocis
+990,216,Mosca minadora
+991,487,Broca-pequena-do-tomateiro
+992,502,Lagarta-do-trigo
+993,503,Pulgão-da-folha
+994,503,Pulgão-da-raiz
+995,503,pulgão-da-aveia
+996,504,Oídio
+997,505,Sarna-do-abacateiro
+998,505,Verrugose
+999,506,Mancha-foliar
+1000,506,Mancha-púrpura
+1001,347,Queima-das-folhas
+1002,507,Mancha-de-Alternaria
+1003,507,Mancha-preta
+1004,492,Oídio
+1005,508,Entomosporiose
+1006,508,Requeima
+1007,509,Cercosporiose
+1008,509,Mancha-de-Cercospora
+1009,360,Antracnose
+1010,510,Cercospora
+1011,510,Mancha-das-folhas
+1012,511,Cercosporiose
+1013,490,Podridão-do-topo
+1014,512,Queima
+1015,512,Sarna
+1016,513,Antracnose
+1017,514,Mancha-preta
+1018,515,Crestamento-das-folhas
+1019,515,Mancha-de-Dendrophoma
+1020,516,Podridão-mole
+1021,191,Pinta-preta
+1022,517,Queima-das-folhas
+1023,518,Podridão dos frutos
+1024,519,Pústula-bacteriana
+1025,520,Mancha-de-Alternaria
+1026,521,Podridão-mole
+1027,522,Podridão parda
+1028,523,Canela-preta
+1029,523,Podridão-mole
+1030,524,Crestamento-bacteriano
+1031,171,Alternaria púrpura
+1032,525,Mancha-preta
+1033,525,Pinta-preta
+1034,526,Mancha-de-Ascochyta
+1035,180,Mancha-de -cercospora
+1036,527,Antracnose-do-guaraná
+1037,528,Requeima
+1038,528,Tombamento
+1039,529,Crestamento-bacteriano
+1040,186,Mancha de Alternaria
+1041,530,Verrugose-da-mangueira
+1042,347,Seca-dos-ramos
+1043,531,Mancha-angular
+1044,532,Podridão-mole
+1045,533,Antracnose
+1046,533,Antracnose-do-rizoma
+1047,534,Mancha-de-Alternaria
+1048,189,Atracnose
+1049,535,Cercosporiose
+1050,415,Mancha Bacteriana
+1051,112,pulgão-do-algodão
+1052,141,Larva alfinete
+1053,536,capim-arroz
+1054,536,capim-coloninho
+1055,536,capim-jaú
+1056,537,Cercosporiose
+1057,537,Mancha-de-Cercospora
+1058,538,Antracnose
+1059,539,Mancha-de-cercospora
+1060,540,Antracnose
+1061,372,Antracnose-da-lentilha
+1062,369,Mancha-foliar Milho
+1063,541,Ferrugem
+1064,542,Mancha-Foliar-Bipolaris
+1065,543,Mancha-de-Bipolaris-do-Milho
+1066,544,Cercosporiose
+1067,545,milheto
+1068,546,capim-alto
+1069,546,capim-camalote
+1070,546,rabo-de-lagarto
+1071,547,capim-mimoso
+1072,547,painço
+1073,548,Saúva parda
+1074,549,Broca-da-cana
+1075,549,Migdolus
+1076,550,Cupim-de-chifre
+1077,129,Queima-das-bainhas
+1078,551,Podridão-negra
+1079,552,Ferrugem
+1080,553,Mancha-aureolada
+1081,554,Burrinho-da-batatinha
+1082,554,Vaquinha-das-solanáceas
+1083,555,Capim-Favorito
+1084,556,canela-de-urubú
+1085,556,erva-de-urubú
+1086,556,erva-palha
+1087,557,Gomose
+1088,558,Tombamento
+1089,559,CANCRO EUROPEU
+1090,560,Podridão-da-raiz
+1091,560,Podridão-do-colo
+1092,489,Morte-súbita
+1093,489,Requeima
+1094,561,capim-calandrini
+1095,561,capim-mão-de-sapo
+1096,561,capim-pé-de-galinha-verdadeiro
+1097,562,Ramulose
+1098,563,Ferrugem Laranja
+1099,564,azedinha
+1100,564,língua-de-vaca
+1101,565,mussambê
+1102,565,sojinha
+1103,566,alfinete
+1104,566,alfinetes-da-terra
+1105,566,flor-roxa
+1106,567,esparguta
+1107,567,espérgula
+1108,567,gorga
+1109,568,hortelã-das-raças
+1110,568,hortelã-das-roças
+1111,568,orelha-de-urso
+1112,569,centochio
+1113,569,erva-de-passarinho
+1114,569,esparguta
+1115,570,-
+1116,233,Mancha foliar
+1117,571,Colletotrichum cliviicola
+1118,496,Lagarta-da-panícula
+1119,572,Broca-gigante
+1120,573,Ferrugem
+1121,492,Oídio-do-cajueiro
+1122,574,Oídio
+1123,575,Ferrugem
+1124,576,Bruggmanniella perseae
+1125,289,Falsa-Medideira
+1126,114,Helicoverpa
+1127,224,Ácaro branco
+1128,577,Lagarta-do-abacate
+1129,577,Lagarta-do-fruto
+1130,578,Tripes-do-prateamento
+1131,398,Caruncho dos cereais
+1132,224,Àcaro-Branco
+1133,579,Traça das flores
+1134,580,Broca
+1135,224,Ácaro rajado
+1136,581,Besouro-verde
+1137,225,ácaro-rajado
+1138,255,Lagarta-das-palmáceas
+1139,141,Vaquinha Verde e Amarela
+1140,392,Pulga do Fumo
+1141,582,Caruncho-do-feijão
+1142,582,Gorgulho-do-feijão
+1143,291,Cigarrinha Verde
+1144,583,Gorgulho-da-goiaba
+1145,584,Besouro-amarelo
+1146,584,Besouro-da-goiabeira
+1147,581,Besouro verde
+1148,225,Ácaro-rajado.
+1149,585,acaro-da-lichia
+1150,300,Percevejo verde
+1151,398,Gorgulho
+1152,586,Besouro-serra-pau
+1153,587,Bicho-furão
+1154,588,Loxa deducta
+1155,589,Megacyllene acuta
+1156,590,Monellia caryella
+1157,591,Oncideres dejeani
+1158,308,Percevejo verde
+1159,225,Acaro-rajado
+1160,255,Lagarta das Palmeiras
+1161,581,Besouro-dos-frutos
+1162,592,guanxuma
+1163,592,guaxima
+1164,592,malvastro
+1165,310,Lagarta mede palmo
+1166,593,Percevejo-da-panícula
+1167,593,Percevejo-do-arroz
+1168,594,aguapé
+1169,594,mureru
+1170,594,mururê
+1171,596,picão
+1172,596,picão-preto
+1173,596,picão-preto-branco
+1174,597,Antracnose
+1175,598,Ferrugem branca
+1176,599,Cercosporiose
+1177,599,Mancha-de-Cercospora
+1178,600,Oídio
+1179,191,Mancha de alternaria
+1180,437,Oídio das curcubitáceas
+1181,601,Cercosporiose
+1182,602,Antracnose
+1183,603,Mancha-de-Alternaria
+1184,603,Mancha-foliar
+1185,604,Cercosporiose
+1186,605,Cercosporiose
+1187,605,Mancha-de-Cercospora
+1188,606,Cercosporiose
+1189,607,Cercosporiose
+1190,180,Mancha-de-cercospora
+1191,608,Ferrugem
+1192,609,Míldio
+1193,610,Moniliase
+1194,191,Mancha-de-alternaria
+1195,611,Queima-das-folhas
+1196,612,Antracnose-dos-frutos
+1197,612,Mal-de-sete-voltas
+1198,613,Alternariose
+1199,614,Cercosporiose
+1200,614,Mancha-de-Cercospora
+1201,615,Antracnose
+1202,186,Mancha-de-alternaria
+1203,507,Mancha- Alternaria
+1204,507,Mancha-Alternaria
+1205,616,Míldio
+1206,617,Cercosporiase
+1207,618,Mancha-de-alternaria
+1208,619,Mancha-de-phyllosticta
+1209,179,Pinta preta
+1210,620,Mancha-de-cercospora
+1211,621,Mancha-das-folhas
+1212,621,Mancha-de-Alternaria
+1213,513,Podridão-floral-dos-citros
+1214,622,Chumbinho
+1215,622,Manchas-com-pontos
+1216,179,Pinta Preta
+1217,269,Mildio
+1218,266,Podridão de Ascoshyta
+1219,422,Leptoriose
+1220,623,Cercosporiose
+1221,189,Antracnose-foliar
+1222,624,Mancha-de-Phoma
+1223,204,Macha-zonada-da-folha
+1224,625,Septoriose
+1225,539,Cercosporiose
+1226,626,Podridão-preta
+1227,627,Cercosporiose
+1228,628,Ferrugem
+1229,629,Mancha-de-Alternaria
+1230,629,Mancha-parda
+1231,630,Cercosporiose-da-romã
+1232,257,Helicoverpa
+1233,496,lagarta-da-panícula
+1234,238,Lagarta das folhas
+1235,114,Lagarta-helicoverpa
+1236,3,Lagartad do cartucho
+1237,3,Lagarta do cartucho
+1238,228,Traça do tomateiro
+1239,302,Lagarta-da-espiga
+1240,332,Mosca-negra
+1241,289,Lagarta falsa medideira
+1242,258,Traça das crucíferas
+1243,3,Lagarta Militar
+1244,297,lLagarta-enroladeira-das-folhas
+1245,297,Lagarta enroladeira-das-folhas
+1246,3,Tripes
+1247,302,Lagarta-da-espiga-do-milho
+1248,141,Larva-Alfinete
+1249,114,Helicoverpa armigera
+1250,258,Traça das cruciferas
+1251,255,Lagarta-daspalmeiras
+1252,631,Ácaro-vermelho
+1253,632,campainha
+1254,632,corda-de-viola
+1255,632,juá-pitanga
+1256,177,Sigatoka-Negra
+1257,633,Amarelão
+1258,633,Tombamento
+1259,129,Rizoctoniose
+1260,600,Míldio - pulverulento
+1261,634,Nematoide das galhas
+1262,635,Nematoide reniforme
+1263,229,Ferrugem do cafeeiro
+1264,636,Cascudo-preto
+1265,636,Pão-de-galinha
+1266,637,Lagarta das folhas
+1267,637,Lagarta do feijão
+1268,638,Cigarrinha-das-frutíferas
+1269,638,Cigarrinha-do-pedúnculo
+1270,639,Tripes
+1271,640,Besouro-de-limeira
+1272,641,Mosca-das-frutas
+1273,642,Pulgão-da-falsa-crespeira
+1274,642,Pulgão-pardo-do-pessegueiro
+1275,643,Percevejo-rajado
+1276,644,Cupim
+1277,167,mosca branca
+1278,293,cochonilha
+1279,243,Ácaro da falsa ferrugem
+1280,645,cochonilha parda
+1281,293,Conchonilha
+1282,645,Cochonilha parda
+1283,293,Cochonilha
+1284,645,Conchonilha parda
+1285,131,Mosca Branca
+1286,645,Cohonilha parda
+1287,645,Cochonilha-parda
+1288,293,Cchonilha
+1289,646,Nematoide-da-haste verde
+1290,646,Soja Louca II
+1291,647,Mofo cinzento
+1292,648,Antracnose da framboesa
+1293,649,Antracnose da framboesa
+1294,650,Antracnose
+1295,651,Cercosporiose
+1296,652,Mancha do dolar
+1297,653,Mofo cinzento
+1298,654,ferrugem do mirtilo
+1299,655,Ferrugem da Seriguela
+1300,656,Cercosporiose
+1301,656,Mancha foliar
+1302,658,mancha anelar
+1303,659,Ferrugem
+1304,660,Mancha-alvo
+1305,661,Ferrugem
+1306,126,fungo-do-armazenamento
+1307,353,Tombamento-de-mudas
+1308,662,Lagarta-do-girassol
+1309,662,Lagarta-preta-das-folhas
+1310,663,Gervão
+1311,663,Mandarová
+1312,112,Pulgão
+1313,112,Piolho do algodão
+1314,664,Pulgão-verde
+1315,664,Pulgão-verde-da-roseira
+1316,665,Mosca-Branca
+1317,140,Cigarrinha das pastagens
+1318,387,Cigarrinha-da-raiz
+1319,666,Cigarrinha-das-pastagens
+1320,667,anserina-vermífuga
+1321,667,erva-de-santa-maria
+1322,667,mastruço
+1323,668,campainha
+1324,668,corda-de-viola
+1325,668,corriola
+1326,669,capim-azedo
+1327,669,capim-forquilha
+1328,669,capim-marreca
+1329,670,capim-bahia
+1330,670,capim-batatais
+1331,670,grama-batatais
+1332,671,capim-da-guiné
+1333,671,capim-de-burro
+1334,671,grama-da-guiné
+1335,672,nabiça
+1336,672,nabo
+1337,672,rabanete
+1338,673,sorgo
+1339,674,avica
+1340,674,ervilhaca
+1341,675,aveia-louca
+1342,675,cevadilha
+1343,675,falsa-cevada
+1344,676,arrebenta-pedra
+1345,676,erva-pombinha
+1346,676,quebra-pedra
+1347,677,junquinho
+1348,677,junça
+1349,677,tiririca-amarela
+1350,678,Miroró
+1351,681,Pau-terra
+1352,682,aromita
+1353,682,espinheiro
+1354,682,esponjinha
+1355,683,camará
+1356,683,cambará
+1357,683,cambará-branco
+1358,684,babaçu
+1359,684,coco-pindoba
+1360,684,palha-branca
+1361,686,carda-de-leão
+1362,686,cordão-de-frade
+1363,686,cordão-de-são-francisco
+1364,687,baga-de-chumbo
+1365,687,balãozinho
+1366,687,coração-da-índia
+1367,256,Broca-da-aboboreira
+1368,256,Broca-das-cucurbitáceas
+1369,3,Lagarta militar
+1370,688,Manchadores
+1371,688,Percevejo-manchador
+1372,256,Broca-das-curcubitáceas
+1373,689,Traça dos cachos
+1374,284,mariposa oriental
+1375,485,Broca-dos-cachos
+1376,690,assa-peixe
+1377,690,assa-peixe-de-santana
+1378,690,assa-peixe-do-pará
+1379,234,Mancha alvo.
+1380,691,Erva-de-santa-maria
+1381,692,capim-favorito
+1382,692,capim-gafanhoto
+1383,692,capim-molambo
+1384,693,Ferrugem-da-folha
+1385,694,Fusariose
+1386,694,Podridão-de-raiz
+1387,695,Poderidão-vermelha-da-raíz
+1388,696,Podridão cinzenta do caule.
+1389,268,Mofo cinzento
+1390,130,Podridão-de-sclerotinia
+1391,205,Podridão dos frutos
+1392,205,Podridão parda
+1393,118,-
+1394,141,vaquinha verde pequeno
+1395,254,Curuquerê da couve
+1396,351,Mancha de fusarium
+1397,346,Mancha de fusarium
+1398,558,Podridão do colo
+1399,697,cardeal
+1400,697,corda-de-viola
+1401,697,esqueleto
+1402,698,absinto
+1403,698,artemija
+1404,698,losna
+1405,699,Quem Quem
+1406,700,Quem Quem
+1407,701,Saúva mata pasto
+1408,702,Saúva-cabeça-de-vidro
+1409,703,Saúva-limão
+1410,703,Saúva-vermelha
+1411,704,Percevejo barriga verde
+1412,705,Ferrugem-tropical
+1413,706,cravo-de-defunto
+1414,706,cravo-do-mato
+1415,706,rabo-de-foguete
+1416,707,capoeraba
+1417,707,marianinha
+1418,707,mata-brasil
+1419,460,Resinose do coqueiro
+1420,460,Podridão-basal
+1421,460,Podridão-negra
+1422,708,capim-de-bezerra
+1423,708,capim-peba
+1424,708,capim-rabo-de-burro
+1425,709,barba-de-bode
+1426,709,capim-barba-de-bode
+1427,273,-
+1428,710,Formiga Quenquém
+1429,710,Formiga Quenquém-de-cisco
+1430,711,formiga sedex
+1431,712,erva-de-bicho
+1432,713,Soliva
+1433,714,ançarinha-branca
+1434,714,erva-de-são-joão
+1435,714,erva-formigueira-branca
+1436,715,barba-de-falcão
+1437,715,crepis
+1438,716,guanxuma-vermelha
+1439,716,sete-sangrias
+1440,717,cará
+1441,717,cará-do-pará
+1442,717,erva-cará
+1443,718,capim-de-mula
+1444,718,capim-do-brejo
+1445,718,capim-guaçu
+1446,719,bunda-mole
+1447,719,bênção-de-deus
+1448,719,lígua-de-vaca
+1449,720,capim-catingueiro
+1450,720,capim-gordo
+1451,720,capim-gordura
+1452,721,gervão
+1453,721,gervão-azul
+1454,721,gervão-de-folha-verônica
+1455,722,azedinha
+1456,722,trevo
+1457,723,Centeio
+1458,724,Triticale
+1459,725,Mildio
+1460,726,Cancro-citrico
+1461,726,Cancro-cítrico
+1462,727,Mancha-bacteriana
+1463,727,Mancha-bacteriana do maracujazeiro
+1464,413,Mancha-aquosa da melancia
+1465,728,Antracnose
+1466,635,Nematóide-reniforme
+1467,220,Nematóide-das-lesões
+1468,646,Ponta Branca
+1469,141,Vaquinha verde amarela.
+1470,729,capim-macho
+1471,729,capim-pelego
+1472,729,mata-colono
+1473,730,amarra-amarra
+1474,730,corda-de-viola
+1475,730,corriola
+1476,731,campainha
+1477,731,corda-de-viola
+1478,731,enrola-semana
+1479,732,Erva-de-coração
+1480,732,Fedegoso
+1481,152,Mancha parda
+1482,220,nematoide-das-lesões
+1483,215,Nematoide das galhas.
+1484,733,Ácaro
+1485,734,Ácaro-alaranjado
+1486,734,Ácaro-plano-da-base-das-folhas
+1487,735,Ácaro do coqueiro
+1488,736,Ácaro
+1489,737,Nematoide-das-galhas
+1490,738,Ampola
+1491,738,Ampola-da-erva-mate
+1492,739,Ácaro-roxo
+1493,739,Ácaro-vermelho
+1494,740,Afídeo
+1495,741,Ácaro-vermelho
+1496,742,Larva de mosca do float
+1497,743,Ácaro
+1498,744,Eriofídio-da-mangueira
+1499,744,Ácaro-da-mal-formação-das-gemas
+1500,745,Ácaro-vermelho
+1501,740,pulgão
+1502,740,pulgão-da-mostarda
+1503,740,pulgão-do-nabo
+1504,333,Tripes
+1505,746,Ferrugem
+1506,179,Pinta preta grande
+1507,747,Cinza-do-cajueiro
+1508,748,Mancha-de-Alternaria
+1509,748,Podridão-negra
+1510,173,Mancha castanha
+1511,349,Mancha-das-folhas
+1512,749,Verrugose
+1513,750,Ferrugem
+1514,751,Mancha preta
+1515,313,Pisilíeo
+1516,752,Gorgulho do eucalipto
+1517,754,Erva-quente
+1518,755,Lagarta-thyrinteina
+1519,150,Mancha púrpura da semente
+1520,217,bicho mineiro
+1521,496,lagarta do trigo
+1522,756,Cochonilha-escama-farinha
+1523,756,Escama-farinha
+1524,757,Murcha-de-Fusarium
+1525,758,Lagarta-da-alfafa
+1526,759,Lagarta-dos-cafezais
+1527,236,Lagarta da maçã
+1528,760,Mandarová-do-fumo
+1529,761,macela
+1530,761,macelinha
+1531,761,macio
+1532,762,capim-colchão
+1533,762,capim-membeca
+1534,762,capim-rabo-de-raposa
+1535,763,boca-de-leão-selvagem
+1536,764,capitinga
+1537,764,grama-argentina
+1538,764,grama-missioneira
+1539,765,junquinho
+1540,765,junça
+1541,765,tiririca
+1542,766,capim-jaraguá
+1543,766,capim-provisório
+1544,766,capim-vermelho
+1545,767,alfafa
+1546,767,alfafa-verdadeira
+1547,768,capim-branco
+1548,768,capim-caiana
+1549,768,penacho
+1550,769,capim-comprido
+1551,769,capim-melado
+1552,769,grama-comprida
+1553,770,capim-gengibre
+1554,770,capim-gengibrão
+1555,770,capim-jacaré
+1556,771,capim-da-roça
+1557,771,capim-das-estradas
+1558,771,milhã-grande
+1559,772,capim-kikuio
+1560,772,kikuyo
+1561,772,quicuio
+1562,773,barbasco
+1563,773,branqueja
+1564,773,calça-de-velho
+1565,774,azeda-crespa
+1566,774,lígua-de-vaca-crespa
+1567,774,língua-de-vaca
+1568,775,cana-de-açucar
+1569,776,capim-canoão
+1570,776,capim-jiriva
+1571,776,capim-leque
+1572,777,crindiúva
+1573,777,grandiúva
+1574,777,pau-pólvora
+1575,778,flor-de-primavera
+1576,778,trevo
+1577,778,trevo-branco
+1578,780,Podridão-radicular
+1579,781,Míldio
+1580,782,Podridão-radicular
+1581,783,Mofo-azul
+1582,783,Míldio
+1583,784,Podridão-das-raízes
+1584,489,Podridão-do-pé
+1585,785,Requeima
+1586,786,Podridão Radicular
+1587,787,capim-agreste
+1588,787,capim-massapé
+1589,787,capim-sapé
+1590,224,Ácaro  branco
+1591,788,feijão
+1592,789,andaca
+1593,789,maria-mole
+1594,789,rabo-de-cachorro
+1595,790,trapoeraba
+1596,790,trapoerabinha
+1597,791,carrapicho-bravo
+1598,791,carrapicho-de-carneiro
+1599,791,carrapicho-grande
+1600,792,acataia
+1601,792,capiçoba
+1602,792,erva-de-bicho
+1603,793,botão-azul
+1604,793,cambará-falso
+1605,793,eupatório
+1606,794,cuspe-de-tropeiro
+1607,794,espinho-de-cachorro
+1608,794,roseta
+1609,795,junquinho
+1610,795,junça
+1611,795,tiririca
+1612,462,Meloidoginose
+1613,462,Nematóide-das-galhas
+1614,796,Meloidoginose
+1615,796,Nematóide-das-galhas
+1616,797,Nematóide-das-lesões
+1617,713,cuspe-de-caipira
+1618,713,cuspe-de-tropeiro
+1619,713,roseta
+1620,799,cataia
+1621,799,erva-de-bicho
+1622,799,persicaria-de-pé-vermelho
+1623,800,bico-de-pato
+1624,800,guaximbé
+1625,800,jacarandá-do-campo
+1626,801,ciganinha
+1627,801,cipó-arame
+1628,802,camboatá
+1629,802,copiúva
+1630,802,tapiriri
+1631,119,pulgão dos cereias
+1632,803,Lagarta-marrom
+1633,236,Lagarta-das-vagens
+1634,804,broca-das-axilas
+1635,236,Lagarta das maçãs
+1636,289,Falso medidor
+1637,548,Saúva-parda
+1638,805,Piolho-de-cobra
+1639,363,Podridão do colmo
+1640,806,Phomopsis longicolla
+1641,343,Larva Minadora
+1642,343,Larva-minadora
+1643,343,Mosca-minadora
+1644,807,Broca-do-abacaxi
+1645,807,Broca-do-fruto
+1646,808,Mosca-branca
+1647,808,Mosca-branca-do-cajueiro
+1648,112,Piolho-do-algodão
+1649,333,Tripes-da-faixa-vermelha
+1650,112,Pulgão do algodoeiro
+1651,315,Mosca-Branca
+1652,809,Ferrugem-dos-frutos
+1653,809,Tripes-da-ferrugem-das-frutas
+1654,810,Brusone
+1655,217,Bichomineiro-docafé
+1656,217,Larva minadora
+1657,811,Broca do cupuaçu
+1658,812,Mosca da carambola
+1659,587,Bicho furão
+1660,813,Traça dos cachos da videira
+1661,814,Bicho-do-fumo
+1662,814,Carruncho-do-fumo
+1663,3,lagarta-do-cartucho
+1664,3,lagarta-militar
+1665,577,Lagarta do fruto
+1666,179,Mancha de alternaria
+1667,815,fungo
+1668,513,Podridão Floral Do Citros
+1669,816,Podridão-vermelha
+1670,817,Crestamento bacteriano
+1671,817,Mancha-angular
+1672,817,Pinta-bacteriana
+1673,818,Crestamento-bacteriano
+1674,818,Mancha-aureolada
+1675,819,cancro citrico
+1676,820,Nematoide das galhas
+1677,821,bambu-taquara
+1678,821,taboca
+1679,821,taquara
+1680,822,Bicho-da-maçã
+1681,822,Cydia
+1682,823,Diaphorina citri Kuwayama
+1683,824,Mosca das frutas
+1684,497,Mosca do Mediterrâneo
+1685,290,Tripes
+1686,118,Percevejo-Barriga-Verde
+1687,825,Cigarrinha verde
+1688,139,Pulgão verde dos cereais
+1689,551,Podridão-abacaxi
+1690,826,Nematoide Cavernícola
+1691,352,Podridão radicular seca
+1692,827,Cigarrinha das pastagens
+1693,828,Cigarrinha das pastagens
+1694,829,Murcha-bacteriana
+1695,829,Podridão-bacteriana-do-talo
+1696,830,Mancha-foliar
+1697,829,Bacteriose
+1698,782,Podridão-das-raizes
+1699,831,traça-da-videira-sul-americana
+1700,832,Mancha-de-Cercospora
+1701,832,Queima-do-aipo
+1702,833,Antracnose
+1703,833,Die back
+1704,834,Doença-rosada
+1705,834,Rubelose
+1706,835,Melanose
+1707,835,Podridão-peduncular
+1708,836,Mancha-de-Phyllosticta
+1709,836,Queima-das-folhas
+1710,837,Mancha-de-Phyllosticta
+1711,837,Mancha-foliar
+1712,838,Podridão-de-Rhizopus
+1713,839,Mancha-angular
+1714,840,Podridão-amarga
+1715,363,Podridão das raízes
+1716,841,Podridão-radicular
+1717,842,canevão
+1718,842,capim-arroz
+1719,842,capim-jaú
+1720,843,Formiga-rapa-rapa
+1721,844,Broca-da-couve
+1722,845,Broca-dos-ramos-da-videira
+1723,846,Pulgão-grande-da-roseira
+1724,846,Pulgão-roxo-da-roseira
+1725,191,mancha de alternaria
+1726,810,brusone do arroz
+1727,201,Ferrugem polisora
+1728,157,Ferrugem-do-trigo
+1729,848,Tripes
+1730,349,Mancha de alternaria
+1731,570,Mancha de cercospora
+1732,234,Mancha de corinespora
+1733,570,Cercosporiose
+1734,570,Mancha-de-Cercospora
+1735,349,Mancha-de-alternaria
+1736,570,Mancha-de-cercospora
+1737,849,Mancha-foliar-de-cercospora
+1738,850,Raízes-rosadas
+1739,268,Botrytis
+1740,647,Murcha-de-Sclerotium
+1741,647,Podridão-das-raízes
+1742,268,Mofo- cinzento
+1743,849,Mancha de cercospora
+1744,276,Podridão-de-ascochyta
+1745,851,Cercosporiose
+1746,349,Alternaria
+1747,852,Oídio
+1748,317,Corintiano
+1749,314,Psilídeo-de-concha
+1750,853,Percevejo bronzeado
+1751,854,traça-do-cacau
+1752,855,Traça do fumo
+1753,856,Traça da farinha
+1754,399,Traça dos cereais
+1755,857,Ferrugem do colmo
+1756,858,Ácaro
+1757,268,Mofo - Cinzento
+1758,268,Mofo-Cinzento
+1759,207,Mancha-negra
+1760,859,Mal-das-folhas
+1761,859,Queima-das-folhas
+1762,860,Mancha-de-myrothecium
+1763,784,Podridão-do-fruto
+1764,861,Septoriose
+1765,785,Podridão-do-fruto
+1766,862,Cercosporiose
+1767,863,Podridão-do-fruto
+1768,349,Mancha-de-folha
+1769,864,Podridão de Raizes
+1770,865,Mosca-do-sorgo
+1771,867,picão-preto
+1772,868,Vaquinha-preta-e-amarela
+1773,869,cascudinho-da-soja
+1774,870,Murcha-de-fusarium
+1775,122,Nematoide-das-galhas
+1776,123,Nematoide-das-lesões
+1777,122,Nematoide das galhas
+1778,130,Podridão-de-sclerotínia
+1779,838,Podridão-de-rhizopus
+1780,871,Murcha-de-fusarium
+1781,130,Podridão-do-colo
+1782,872,Murcha-de-fusarium
+1783,873,Murcha-de-fusarium
+1784,874,Nematóide
+1785,875,Mancha-bacteriana
+1786,876,Murcha
+1787,876,Murcha-de-Fusarium
+1788,877,cambará
+1789,877,eupatório
+1790,878,Podridão amarga
+1791,519,Pústula ou Mancha-bacteriana
+1792,350,Mancha-nas-fibras
+1793,127,Necrose-do-colo
+1794,879,Phomopsis-da-semente
+1795,879,Seca-da-haste-e-da-vagem
+1796,694,Podridão-vermelha-da-raiz
+1797,880,Oídio
+1798,881,Antracnose
+1799,882,Escoriose
+1800,883,capim-colchão
+1801,883,capim-da-roça
+1802,883,capim-tinga
+1803,884,Helmintosporiose
+1804,885,Cigarrinha-da-cvc
+1805,886,Corda-de-viola
+1806,887,Cercosporiose
+1807,887,Mancha-de-Cercospora
+1808,647,Mela
+1809,888,Cercosporiose
+1810,888,Mancha-de-Cercospora
+1811,517,Queima da folhas
+1812,889,Podridão-branca
+1813,268,Mofo -cinzento
+1814,191,Mancha-foliar
+1815,647,Podridão de Sclerotium
+1816,890,Cercosporiose
+1817,191,Queima-das-folhas
+1818,647,Mofo-branco
+1819,830,Mancha-de-alternaria
+1820,130,Podridão das raízes
+1821,891,Mancha-de-alternaria
+1822,570,Mancha-foliar
+1823,349,Alternariose
+1824,268,Mofo-cinzento Podridão-da-flor
+1825,892,Pulgão
+1826,893,Mofo-cinzento
+1827,893,Queima-das-pontas
+1828,894,Crestamento
+1829,894,Podridão-da-flor
+1830,895,Sarna
+1831,896,Antracnose-maculata
+1832,897,Crespeira
+1833,897,Crespeira-verdadeira
+1834,898,Murcha
+1835,350,Fungo-de-armazenamento
+1836,899,Gomose
+1837,899,Podridão-do-pé
+1838,899,Podridão-do-topo
+1839,900,Cárie
+1840,901,Carvão-fétido
+1841,901,Cárie
+1842,902,Cascudo-serrador
+1843,903,Ferrugem
+1844,904,Mancha-parda
+1845,563,Ferrugem-alaranjada
+1846,905,Trapoeraba
+1847,906,capim-marmelada
+1848,906,papuã
+1849,906,papuã-do-banhado
+1850,250,Larva minadora
+1851,907,Traça
+1852,856,Traça-da-farinha
+1853,908,Traça-dos-cereais
+1854,908,Traça-indiana-da-farinha
+1855,397,Besourinho
+1856,397,Caruncho dos cereais
+1857,397,Gorgulho do arroz
+1858,909,Besouro-castanho
+1859,910,Traça-das-flores-do-coqueiro
+1860,910,Traça-do-cacau
+1861,911,Caruncho-das-tulhas
+1862,911,Caruncho-do-café
+1863,397,Caruncho ou Gorgulho-do-arroz
+1864,912,Besouro
+1865,913,Besouro
+1866,914,Besouro
+1867,915,Caruncho
+1868,915,Caruncho-pequeno-do-feijão
+1869,855,Traça
+1870,855,Traça-do-fumo
+1871,916,Besouro
+1872,917,Besouro
+1873,918,Caruncho
+1874,398,gorgulho
+1875,331,percevejo-barriga-verde
+1876,756,Escama farinha
+1877,283,Mosca Sul americana
+1878,919,Mancha-de-alternaria
+1879,920,Ferrugem
+1880,125,Mancha-dos-grãos
+1881,757,Murcha de fusarium
+1882,125,Fusariose
+1883,921,Bolor-verde
+1884,284,Broca-dos-ponteiros
+1885,332,Mosca negra do citros
+1886,922,Ácaro da leprose
+1887,923,dormideira
+1888,923,malícia
+1889,923,não-me-toque
+1890,924,malva
+1891,924,malva-de-embira
+1892,924,malva-roxa
+1893,925,malva-branca
+1894,849,Cercosporiose
+1895,849,Mancha-de-Cercospora
+1896,926,Cárie do Grão
+1897,198,Cristamento- gomoso
+1898,418,cupim
+1899,927,Pulgão-do-pinus
+1900,928,Mosca-do-sorgo
+1901,929,Lagarta-das-folhas
+1902,930,Lagarta-das-folhas
+1903,931,Percevejo
+1904,554,Vaquinha
+1905,932,Broca-dos-ramos
+1906,933,Lagarta-das-folhas
+1907,934,Lagarta-das-folhas
+1908,935,Tripes
+1909,936,Lagarta-desfolhadora
+1910,937,Traça-dos-frutos
+1911,316,Lagarta-medideira
+1912,938,Lagarta
+1913,938,Lagarta-das-folhas
+1914,939,Lagarta-de-fogo
+1915,939,Taturana
+1916,301,Lagarta-medideira
+1917,940,Lagarta-dos-frutos
+1918,941,Percevejo-escuro
+1919,483,Broca-do-rizoma
+1920,483,Moleque-da-bananeira
+1921,826,Nematóide-carvenícola
+1922,942,Pulgão-da-alface
+1923,942,Pulgão-da-serralha
+1924,120,Percevejo-marrom-da-soja
+1925,943,Bolor-azul
+1926,943,Podridão-azul-dos-frutos
+1927,944,calopogônio
+1928,944,falso-oró
+1929,944,feijão-sagu
+1930,945,feijão-de-corda
+1931,945,feijão-fradinho
+1932,945,feijão-macassar
+1933,946,erva-estrela
+1934,946,espoleta
+1935,947,Capim-branco
+1936,948,Boiadeira
+1937,494,Lagarta rosca
+1938,144,Coró da soja
+1939,949,Míldio-do-sorgo
+1940,278,-
+1941,186,-
+1942,272,-
+1943,278,--
+1944,189,.
+1945,147,-
+1946,148,.
+1947,268,-
+1948,189,-
+1949,272,","
+1950,131,Mosca branca
+1951,309,Lagarta Elasmo
+1952,501,Lagarta dos capinzais
+1953,950,Pulgão-verde
+1954,950,pulgão-verde-dos-cereais
+1955,950,Pulgão verde dos cereais
+1956,951,Pulgão-da-cana-deaçúcar
+1957,952,Cancro
+1958,952,Podridão-de-frutos
+1959,953,Mal-rosado
+1960,953,Rubelose
+1961,954,Mancha-das-folhas
+1962,954,Pinta-preta
+1963,955,Mancha-da-folha-e-cálice
+1964,956,Ferrugem
+1965,956,Ferrugem-do-craveiro
+1966,891,Mancha-de-Alternaria
+1967,891,Mancha-foliar
+1968,957,Mancha-de-Phyllosticta
+1969,957,Mancha-foliar
+1970,958,Podridão-negra
+1971,958,Podridão-preta
+1972,959,Ferrugem
+1973,959,Ferrugem-da-roseira
+1974,960,Cancro-bacteriano
+1975,960,Mancha-olho-de-perdiz
+1976,961,Mancha-de-Clasdoporium
+1977,962,Podridão-de-raiz
+1978,962,Queima
+1979,262,Morte-súbita
+1980,262,Podridão-parda
+1981,963,cancro-bacteriano
+1982,964,Oídio
+1983,965,Oídio
+1984,966,Micosferella
+1985,967,Oídio
+1986,968,Oídio
+1987,969,Manchas do tronco
+1988,970,Mancha-foliar-de-Cylindrocladium
+1989,971,Oídio
+1990,972,Podridão das raízes
+1991,973,Ferrugem das flores
+1992,974,Oídio
+1993,975,Manchas do tronco
+1994,976,Tripes
+1995,977,Metálico
+1996,978,Unha-de-cabrito
+1997,980,mata-pasto
+1998,980,quebra-tijela
+1999,981,Ata-brava
+2000,982,Cumbuquinha
+2001,984,guanxuma
+2002,984,guaxima
+2003,984,malva-brava
+2004,985,Lacre
+2005,814,"Bicho-do-fumo, Caruncho-do-fumo, Besouro-do-fumo"
+2006,986,Gafanhoto
+2007,987,Gafanhoto
+2008,457,Estria-Vermelha
+2009,988,Queima da folha
+2010,989,Crestamento bacteriano
+2011,824,Mosca-das-frutas
+2012,990,Percevejo-rendado
+2013,991,Besouro
+2014,992,Besourinho
+2015,992,Vaquinha-verde
+2016,993,Lagarta-desfolhadora
+2017,755,Lagarta-Thyrinteina
+2018,755,Lagarta-de-cor-parda
+2019,994,Tripes
+2020,994,Tripes-do-gladíolo
+2021,995,Lagarta-das-folhas
+2022,995,Mandarová-da-uva
+2023,244,Acaro da necrose
+2024,996,Ácaro-vermelho
+2025,996,Ácaro-do-morangueiro
+2026,997,Oídium
+2027,998,Ácaro-prateado
+2028,115,Pulgão da batata
+2029,846,Pulgão roxo da roseira
+2030,999,Pulgão das roseiras
+2031,416,Pulgão-da-raiz
+2032,309,Broca do colo
+2033,1000,Piolho-de-cobra
+2034,1001,Coró
+2035,1001,Coró-do-trigo
+2036,417,Bicho-bolo
+2037,417,Pão-de-galinha
+2038,1002,ervanço
+2039,1002,nateira
+2040,1002,perpétua
+2041,1003,Percevejo-barriga-verde
+2042,558,-
+2043,1004,Cochonilha-rosada
+2044,532,Podridão mole
+2045,524,Mancha bacteriana
+2046,1005,Mal-das-sete-voltas
+2047,489,Podridão-do-olho
+2048,528,Podridão do colo
+2049,524,Mancha-foliar
+2050,1006,Podridão-mole
+2051,1007,Melanose
+2052,1008,Antracnose-maculata
+2053,1009,Mancha-barrenta
+2054,551,Podridão-da-coroa
+2055,303,Ácaro vermelho
+2056,848,Trips
+2057,228,Traça
+2058,1010,Bicho mineiro
+2059,238,Tripes
+2060,302,Lagarta-helicoverpa
+2061,1011,Ácaros vermelhos
+2062,117,Cigarrinha do milho
+2063,117,Cigarrinhado-milho
+2064,1011,Ácaro-vermelho
+2065,1011,Ácaros-vermelhos
+2066,486,Lagarta-rosca
+2067,460,Podridão negra
+2068,1012,Antracnose
+2069,1012,Podridão-da-coroa
+2070,1013,Lagarta-das-folhas
+2071,1013,Lagarta-das-folhas-do-abacateiro
+2072,1014,Broca-dos-frutos
+2073,1015,Bexiga
+2074,1015,Chupança-do-cacau
+2075,1016,Vaquinha-do-cacaueiro
+2076,1016,Vaquinha-preta
+2077,1017,Pinheirinho
+2078,1017,Taturana-verde
+2079,1018,Gravetinho
+2080,1018,Lagarta-mede-palmo
+2081,1019,Broca-das-pontas
+2082,1019,Broca-das-pontas-do-cajueiro
+2083,812,Mosca-da-carambola
+2084,494,Lagarta Rosca
+2085,141,Vaquinha verde-amarela
+2086,283,Mosca das frutas sul americanas
+2087,283,mosca das frutas sul americanas
+2088,1020,Traça-da-oliveira
+2089,1021,Gafanhoto
+2090,641,Mosca - sul- americana
+2091,497,Mosca do mediterâneo
+2092,1022,Mosca minadora
+2093,1022,Mosca -minadora
+2094,494,LAgarta Rosca
+2095,1023,Mosca-minadora
+2096,1024,Lagarta das folhas
+2097,1025,Traça-da-oliveira
+2098,1022,Mosca-minadora
+2099,1026,Broca-do-colo
+2100,1027,Lagarta-das-folhas
+2101,1027,Lagarta-das-solanáceas
+2102,641,Mosca - das indias- ocidentais
+2103,1028,Lagarta-saia-justa-do-cajueiro
+2104,1029,Lagarta-do-caqui
+2105,1029,Lagarta-dos-frutos
+2106,1022,mosca minadora
+2107,132,-
+2108,1030,Mosca-do-figo
+2109,1031,Drosófila
+2110,309,Lagarta elasmo
+2111,501,Curuquêre dos capinzais
+2112,1032,Broca-da-amêndoa
+2113,1033,Mosca do broto
+2114,1034,Tripes-da-mandioca
+2115,1035,Cecidomiídeos
+2116,1036,Tripes
+2117,283,Mosca-das-frutas-sulamericana
+2118,1037,Tripes
+2119,1038,Lagarta- urticante
+2120,494,lagarta rosca
+2121,254,Curuquêre do couve
+2122,1039,Argyrotaenia sphaleropa
+2123,1040,Broca das mirtáceas
+2124,1041,Mosca-minadora
+2125,1042,Tripes
+2126,1043,tripes
+2127,494,Lagarta - rosca
+2128,254,curuquêre da couve
+2129,641,mosca-das-indias-ocidentais
+2130,1039,Lagarta-das-fruteiras
+2131,1044,Tripes
+2132,831,Traça-da-videira
+2133,909,Besouro castanho
+2134,491,Mosca branca
+2135,400,Besouro
+2136,1045,Traça dos cereais
+2137,397,Gorgulho-dos-grãos-armazenados
+2138,1046,Manchas-foliar
+2139,904,Mancha parda
+2140,816,Podridão Vermelha
+2141,1047,Mancha de Curvulária
+2142,315,.
+2143,1048,dormideira
+2144,1048,malícia
+2145,1048,malícia-de-mulher
+2146,1049,Lagarta-enroladeira
+2147,477,pulgão-lanígero-das-macieiras
+2148,121,pulgão verde
+2149,1050,Escama-marrom
+2150,1051,Pulgão-da-orquídea
+2151,1052,Gafanhoto
+2152,1049,Lagarta enroladeira
+2153,803,Lagarta das Folhas
+2154,1053,mariposa do álamo
+2155,1054,Lagarta-desfolhadora
+2156,1055,"Lagarta-das-palmeiras, Lagarta-do-coqueiro"
+2157,1056,malva-relógio
+2158,803,Lagarta das vagens
+2159,1057,Mancha-de-Ascochyta
+2160,894,Podridão da flor
+2161,1058,Ferrugem
+2162,1059,Fusariose
+2163,1060,Mancha-de-Diplocarpon
+2164,1060,Mancha-foliar
+2165,1061,Congo grass
+2166,1061,Congo signal grass
+2167,1061,Kennedy Ruzi
+2168,1062,capim-de-rhodes
+2169,1064,falso-massambará
+2170,1064,sorgo-selvagem
+2171,1067,Cagaita
+2172,1069,Psilídeo da goiabeira
+2173,1070,Podridão-olho-de-boi
+2174,525,Pinta -preta
+2175,459,Sarna-comum
+2176,1071,Podridão-negra
+2177,1070,Podridão Olho-de-boi
+2178,1072,Antracnose
+2179,127,Fusariose
+2180,171,Pinta-preta
+2181,148,Mancha angular
+2182,641,Mosca das frutas
+2183,825,Cicadela-verde
+2184,825,cicadela-das-queimaduras-da-vinha
+2185,825,cigarrinha-verde-da-vinha
+2186,1073,alecrim
+2187,1073,apaga-fogo
+2188,1073,mangericão
+2189,1058,Ferrugem-parda
+2190,1074,Cigarrinha dos citros
+2191,300,Percevejo da soja
+2192,308,Percevejo verde amarelo
+2193,418,Cupim-de-montículo
+2194,735,Ácaro-da-necrose-do-coqueiro
+2195,1075,Nematoide
+2196,1076,Nematoide
+2197,1077,Canela-preta
+2198,506,.
+2199,347,.
+2200,436,-
+2201,437,.
+2202,194,.
+2203,149,Ferrugem do Feijoeiro
+2204,436,Mancha-de-alternária
+2205,1078,.
+2206,509,.
+2207,195,.
+2208,194,","
+2209,1079,Ferrugem-branca
+2210,180,.
+2211,151,.
+2212,510,.
+2213,213,.
+2214,1080,Cigarrinha
+2215,130,Podridão de esclerotinia
+2216,130,Podridão de esclerotínia
+2217,1081,capim-angola
+2218,1081,capim-branco
+2219,1081,capim-de-planta
+2220,1082,Traça-das-crucíferas
+2221,132,tripes
+2222,1083,Cigarrinha
+2223,1084,Berne-das-raízes
+2224,1084,Mosca-das-raízes
+2225,358,Tombamento
+2226,815,Fungos-de-qualidade
+2227,815,Mofo
+2228,1085,Canela-preta
+2229,1085,Podridão-mole
+2230,1086,Oídio
+2231,728,Mancha foliar da gala
+2232,728,Podridão amarga
+2233,1087,Podridão pós-colheita
+2234,1088,Complexo mancha branca
+2235,1089,Complexo mancha branca
+2236,1090,Complexo mancha branca
+2237,1091,Crestamento bacteriano
+2238,1092,caraguatá
+2239,1092,caraguatá-horrido
+2240,1092,gravatá
+2241,908,Traça indiana
+2242,856,traça
+2243,856,traça-da-farinha
+2244,912,besouro
+2245,912,gorgulho-da-farinha
+2246,913,besouro
+2247,914,besouro
+2248,803,Lagarta-das-vagens
+2249,485,Lagarta-da-roseta
+2250,1093,bredo
+2251,1093,caruru
+2252,1093,caruru-de-folha-de-cuia
+2253,1094,Dessecação pré-colheita
+2254,1095,Torrãozinho
+2255,1096,Broca da Duboisia
+2256,268,Mofo - cinzento
+2257,268,Mofo-cinzento-das-vagens
+2258,1097,Antracnose
+2259,1098,Mofo-cinzento
+2260,1099,Apaga-fogo
+2261,1100,Quenquém-preta-brilhante
+2262,699,Formiga-de-monte-vermelha
+2263,699,Formiga-mineira
+2264,1101,Formiga-de-eira
+2265,1101,Formiga-de-rodeio
+2266,1102,Formiga-caiapó
+2267,702,Saúva-de-vidro
+2268,1103,Saúva-limão-sulina
+2269,1104,Cercosporiose-do-abacateiro
+2270,728,Antracnose do abacateiro
+2271,1105,Podridão-negra
+2272,1106,Antracnose-da-cebola-branca
+2273,612,Antracnose foliar
+2274,1107,Ferrugem
+2275,347,Podridão-seca
+2276,1108,Ferrugem-branca
+2277,1109,Sarna da Batata-Doce
+2278,1110,Mancha-foliar-de-Phomopsis
+2279,1111,Mancha-parda
+2280,1112,Sarna da Batata-Doce
+2281,1113,Ferrugem
+2282,1114,Canela-preta
+2283,612,Antracnose-foliar
+2284,1115,Oídio
+2285,1116,Oídio
+2286,1117,Cercosporiose
+2287,1118,Mancha-cinzenta-da-haste
+2288,1119,Queima-de-ascochyta
+2289,878,Mancha-foliar
+2290,1120,Mancha-foliar
+2291,1121,Mancha-foliar
+2292,1122,Mancha-de-ascochyta
+2293,1123,Ferrugem-do-linho
+2294,347,Podridão-de-Lasiodiplodia
+2295,1124,Oídio
+2296,728,Mancha-das-folhas
+2297,1125,Oídio
+2298,1126,Mancha-das-folhas
+2299,878,Antracnose
+2300,860,Mancha-de-mirotécio
+2301,1127,Antracnose
+2302,1128,Cercosporiose-do-quiabeiro
+2303,349,Coração-negro
+2304,1129,Sarna
+2305,520,Mancha de alternaria
+2306,1130,Oídio
+2307,1131,Mancha de Alternaria
+2308,1132,Formiga-meia-lua
+2309,1132,Formiga-rapa-rapa
+2310,710,Quem Quem de cisco
+2311,1133,Formiga
+2312,522,Tombamento
+2313,1134,Cupim
+2314,1135,café-bravo
+2315,1135,mandioquinha
+2316,1135,sangregão
+2317,1088,Mancha branca do milho
+2318,735,Ácaro-do-coqueiro
+2319,1136,Traça-da-farinha
+2320,1137,Besouro
+2321,1137,Escaravelho
+2322,1138,Traça
+2323,918,Gorgulho-do-feijão-de-corda
+2324,496,Lagarta-do-Trigo
+2325,1139,Mancha marrom
+2326,1140,Ferrugem
+2327,373,Podridão dos grãos
+2328,1141,geberela
+2329,1142,alecrim-de-vassoura
+2330,1142,vassoura
+2331,1142,vassoureira
+2332,1143,grama-de-ponta
+2333,1143,grama-doce
+2334,418,Cupim de montículo
+2335,1144,Mal de Sigatoca
+2336,1145,Melanose ou Podridão peduncular
+2337,1146,Podridão
+2338,1147,Mancha das folhas
+2339,1148,Podridão Amarga
+2340,1149,Besouro
+2341,1150,Besouro
+2342,1151,Cascudinho
+2343,1134,Cupim-chato
+2344,1152,Broca-dos-galhos
+2345,1152,Broca-dos-ponteiros
+2346,1153,Arlequim-pequeno
+2347,1153,Broca-do-tronco
+2348,1154,Coleobroca-dos-citros
+2349,497,Mosca do Mediterrânio
+2350,1155,Erva-andorinha
+2351,1156,Ferrugem
+2352,1157,Algodão-de-preá
+2353,1158,bredo-d ́água
+2354,1158,erva-de-jacaré
+2355,1158,perpétua
+2356,1159,beldroega-pequena
+2357,1159,erva-de-santa-luzia
+2358,1159,quebra-pedra
+2359,1160,capim-cebola
+2360,1160,capim-fino
+2361,1160,capim-pé-de-galinha
+2362,1161,capim-coqueirinho
+2363,1162,diodia
+2364,1162,poaia-do-campo
+2365,1163,capim-barbicha-de-alemão
+2366,1163,capim-mimoso
+2367,1163,capim-orvalho
+2368,1164,cipó-cabeludo
+2369,1164,erva-de-cobra
+2370,1164,erva-de-sapo
+2371,1165,arrebenta-pedra
+2372,1165,erva-pombinha
+2373,1165,fura-parede
+2374,1166,grama-doce
+2375,1167,cipó-de-leite
+2376,1168,falsa-dormideira
+2377,1168,falsa-sensitiva
+2378,1168,mata-pasto
+2379,1169,agrião-do-brejo
+2380,1169,erva-de-botão
+2381,1169,lanceta
+2382,1170,almeirão-de-roseta
+2383,1170,almeirão-do-campo
+2384,1171,plantagem
+2385,1171,tanchagem
+2386,1172,amargosa
+2387,1172,dente-de-leão
+2388,1172,dente-de-leão-dos-jardins
+2389,1173,cobre-verde
+2390,1173,corriola
+2391,1173,dinheiro-em-penca
+2392,1175,balãozinho
+2393,1175,bucho-de-rã
+2394,1175,camapú
+2395,1176,vassourinha
+2396,1176,vassourinha-cheirosa
+2397,1176,vassourinha-doce
+2398,1177,Jurema-preta
+2399,1178,carrapicho-de-carneiro
+2400,1178,carrapicho-de-santa-helena
+2401,1178,espinho-de-carneiro
+2402,1179,centela
+2403,1179,corcel
+2404,1179,pata-de-mula
+2405,1180,arumarana
+2406,1180,caeté
+2407,1180,paquiviri
+2408,1181,tanner-grass
+2409,1181,tenner-grass
+2410,1182,capim-colchão
+2411,1182,capim-das-hortas
+2412,1182,capim-das-roças
+2413,1183,capim-cameroon
+2414,1183,capim-elefante
+2415,1183,capim-napier
+2416,1184,azedinha
+2417,1184,pé-de-pombo
+2418,1184,trevo-azedo
+2419,1185,agrião
+2420,1185,mastruço
+2421,1185,mastruço-do-sul
+2422,1186,arre-diabo
+2423,1186,pinha-queimadeira
+2424,1186,urtiga-brava
+2425,1187,cipó-de-fogo
+2426,1187,cipó-de-lagarto
+2427,1187,cipó-de-são-joão
+2428,1188,aveia-brava
+2429,1188,aveia-fátua
+2430,1188,aveia-selvagem
+2431,804,Broca - dosponteiros
+2432,757,Murcha-de-fusarium
+2433,694,Murcha-de-fusarium
+2434,305,Piolho
+2435,1191,cipó-folha-de-prata
+2436,1191,cipó-prata
+2437,1192,grão-de-galo
+2438,1193,camboatá
+2439,1193,carrapeta
+2440,1193,carrapeta-verdadeira
+2441,1194,laranjeira-brava
+2442,1194,laranjeira-do-mato
+2443,1194,laranjinha
+2444,1085,Canela-preta e Podridão-mole
+2445,526,Mancha de ascochyta
+2446,1195,Hérnia-das-crucíferas
+2447,1196,Mofo cinzento
+2448,609,Mildio
+2449,1197,Míldio
+2450,1198,Míldio
+2451,1199,Murcha de fusarium
+2452,129,Fungo de solo
+2453,1201,Cigarrinha-das-pastagens
+2454,1202,Podridão-branca-da-espiga
+2455,558,Podridão-do-colmo
+2456,558,tombamento
+2457,1203,Broca do fruto
+2458,1204,Coleobroca
+2459,1154,Coleobroca
+2460,1017,Taturana verde
+2461,803,Lagarta da folhas
+2462,1205,Lagarta das vagens
+2463,1206,Traça da beterraba
+2464,1207,Lagarta
+2465,803,Lagarta das folhas
+2466,1208,Lagarta das folhas
+2467,1209,Lagarta das folhas
+2468,301,Lagarta mede palmo
+2469,1210,Grilo-toupeira
+2470,1210,Paquinha
+2471,305,Trips do fungo
+2472,301,Falsa medideira
+2473,305,Trips do fumo
+2474,1211,Trips
+2475,1031,Drosofila
+2476,1212,Traça-das-castanhas
+2477,1039,Lagarta das fruteiras
+2478,283,Mosca-das-Frutas-Sulamericana
+2479,304,Trips
+2480,485,Traça dos cachos
+2481,1213,Traça
+2482,633,Podridão-das-raízes
+2483,250,Mosca-mineradora
+2484,114,lagarta
+2485,3,
+2486,114,Lagarta helicoverpa
+2487,3,Lagartamilitar
+2488,302,-
+2489,397,Caruncho-do-arroz
+2490,397,Gorgulho-do-arroz
+2491,142,Percevejo Barriga Verde
+2492,1214,Mosca-da-haste
+2493,1215,Coró-da-soja-do-cerrado
+2494,142,Percevejo barriga verde
+2495,289,Lagarta-falsamedideira
+2496,1216,Tripes
+2497,1217,Lagarta-da-teia
+2498,1218,Lagarta-das-vagens
+2499,1219,-
+2500,503,-
+2501,1220,Capim-Braquiária
+2502,146,Brunose
+2503,1221,Caracol
+2504,1221,Caracoleta
+2505,1222,Lesma
+2506,711,Formiga-mandioca
+2507,1223,Pulgão
+2508,1224,guanxuma
+2509,1224,guanxuma-de-folha-fina
+2510,1224,guanxuma-fina
+2511,1225,Capa-bode
+2512,1226,Pata-de-vaca
+2513,1227,Lixeira
+2514,1228,cipó-prata
+2515,1228,cipó-ruão
+2516,1228,corona
+2517,353,podridão da raiz
+2518,1229,doença raiz
+2519,431,oídio
+2520,1230,Oídio
+2521,1231,Oídio
+2522,1232,Mosca das frutas
+2523,1233,Pulgão-do-feijoeiro
+2524,1232,Mosca-das-frutas
+2525,1232,Moscas-das-frutas
+2526,1234,Chupador-do-tomate
+2527,1234,Percevejo-do-tomate
+2528,584,Besouro amarelo
+2529,1235,Ácaro aranha
+2530,803,Lagarta preta da soja
+2531,752,Gorgulho-do-eucalipto
+2532,812,Mosca das frutas
+2533,1011,Ácaro vermelho
+2534,745,Ácaro vermelho
+2535,1236,Mancha-das-glumelas
+2536,1236,Mancha-estreita
+2537,524,-
+2538,960,Cancro Bacteriano
+2539,1237,Cancro bacteriano
+2540,1238,Crestamento bacteriano
+2541,1239,Bacteriose
+2542,1239,Mancha-bacteriana-oleosa
+2543,875,Crestamento-bacteriano
+2544,1240,Podridão-do-colmo
+2545,570,Mancha-de-cercospora ou Mancha-parda
+2546,1241,Podridão-mole
+2547,1240,Murcha bacteriana
+2548,1242,-
+2549,1243,-
+2550,1244,-
+2551,1245,-
+2552,1246,Manchabacteriana
+2553,1247,podridão da cebola
+2554,1248,junquinho
+2555,1248,junça
+2556,1248,três-quinas
+2557,1249,-
+2558,830,-
+2559,1250,-
+2560,1251,Oídio
+2561,1252,Eriofídeo
+2562,221,ácaro-plano
+2563,1253,malva-de-espinho
+2564,1253,quiabo-branco
+2565,1254,cabelo-de-guia
+2566,1254,capim-tapete
+2567,1254,mofungo
+2568,1255,Formiga cortadeira
+2569,711,Formiga limão
+2570,1256,Nematoides das lesões radiculares
+2571,1257,Nematoide dos citros
+2572,1259,Ácaro-das-flores-do-abacateiro
+2573,1260,Ácaro da gema
+2574,1261,Murcha
+2575,1261,Míldio
+2576,1262,Oídio
+2577,757,Murcha
+2578,1263,Sujeira-de-mosca
+2579,696,Podridão-cinzenta-do-caule
+2580,696,Podridão-preta-das-raízes
+2581,277,Mildio
+2582,1264,Mancha-de-Septoria
+2583,1264,Septoriose
+2584,1265,Mancha-de-Septoria
+2585,1265,Septoriose
+2586,216,Larva minadora
+2587,1266,Mancha-das-folhas
+2588,1266,Mancha-parda-da-roseira
+2589,1267,Mancha-de-Mycosphaerella
+2590,1268,Antracnose
+2591,954,Pinta preta
+2592,1266,Mancha das folhas
+2593,1267,Mancha parda das folhas
+2594,1265,Mancha de septoria
+2595,145,mancha parda
+2596,235,mancha salpicada
+2597,211,Ferrugem-da-grama
+2598,427,Mancha-parda
+2599,1054,Lagarta-verde-do-coqueiro
+2600,256,Broca-dos-frutos
+2601,341,Broca da Cana
+2602,221,ácaro plano
+2603,1269,Mancha-olho-de-rã
+2604,757,Mal-do-colo
+2605,196,Sarna
+2606,173,Mancha Castanha
+2607,351,Amarelecimento de fusarium
+2608,352,Podridão-radicular-da-seca
+2609,694,Podridão-de-raízes
+2610,129,Podridão-de-raízes
+2611,1270,Mofo-da-panícula-e-grãos
+2612,1089,Tombamento
+2613,124,Podridão das sementes.
+2614,1271,Mofo-preto
+2615,351,Podridão-radicular-seca
+2616,129,Podridão-do-colo
+2617,1272,Fusariose
+2618,1273,Mancha de cercospora
+2619,349,Mancha de Alternaria
+2620,348,Fungo de Armazenamento
+2621,1271,Mofo Preto
+2622,1274,grama-de-ponta
+2623,1274,trigo-grama
+2624,347,Podridão da raiz
+2625,347,Podridão-seca-das-manivas
+2626,1275,Podridão do milho
+2627,1276,Fusariose
+2628,1276,Mal-do-Panamá
+2629,125,Podridão de fusarium
+2630,757,Fusariose
+2631,757,Murcha-de-fusário
+2632,1277,cochonilha de escamas
+2633,694,Podridão-seca
+2634,139,-
+2635,2,-
+2636,3,-
+2637,1278,barbadinho
+2638,1278,carrapichinho
+2639,1278,carrapicho-beiço-de-boi
+2640,265,Mildio
+2641,242,Traça da batatinha
+2642,1023,Mosca minadora
+2643,1141,Giberela
+2644,1279,Mancha-de-cercóspora
+2645,191,alternaria
+2646,191,Queima das folhas
+2647,520,Queima das folhas
+2648,524,Queima bacteriana
+2649,191,Alternaria
+2650,1280,Estria-bacteriana
+2651,1281,Mancha bacteriana
+2652,191,Mancha de Alternaria
+2653,191,mofo-preto
+2654,191,fusariose
+2655,191,tombamento
+2656,230,Mancha angular
+2657,1282,Formiga-caiapó-capixaba
+2658,701,Saúva-amarela
+2659,701,Saúva-mata-pasto
+2660,1283,Quenquém-rajada
+2661,1284,anagalis
+2662,1284,bacuru-de-cores
+2663,1284,escarlate
+2664,1285,Vaquinha
+2665,1286,Cascudinho-verde
+2666,250,Moscas minadoras
+2667,198,Crestamento Gomoso
+2668,570,Mancha foliar
+2669,1287,Mal-do-facão
+2670,1287,Murcha
+2671,1287,
+2672,219,Nematóide espiralado
+2673,1288,Vespa-da-madeira
+2674,528,Podridão-de-raízes-e-frutos
+2675,1289,nematoide da goiabeira
+2676,1289,nematoide de galhas da goiabeira
+2677,215,Nematoide das galhas
+2678,1290,Broca do fruto
+2679,316,Lagarta falsa medideira
+2680,844,Broca da couve
+2681,1291,Lagarta-das-folhas
+2682,1291,Lagarta-dos-eucaliptus
+2683,1292,Lagarta militar
+2684,1293,botão-ouro
+2685,1293,fazendeiro
+2686,1293,fazendeiro-peludo
+2687,1294,almeirão-do-brejo
+2688,1294,almeirão-do-campo
+2689,1294,almeirão-dos-cafezáis
+2690,1295,angiquinho
+2691,1295,corticeirinha
+2692,1295,maricazinho
+2693,1296,Ácaro do bronzeado
+2694,745,-
+2695,1297,Eriofídeo-das-flores
+2696,1298,-
+2697,1299,Ácaro-da-erinose-da-videira
+2698,1300,Mancha de alternaria
+2699,1301,Vassoura-de-bruxa
+2700,1302,Ferrugem-do-colmo
+2701,1303,chocalho
+2702,1303,feijão-de-boi
+2703,1303,guizo-de-cascavel
+2704,1304,estramonio
+2705,1304,figueira-brava
+2706,1304,figueira-do-inferno
+2707,1305,alfavaca-de-cheiro
+2708,1305,betônica-brava
+2709,1305,erva-de-cabra
+2710,1306,azedinha
+2711,1306,azedinha-de-folha-cortada
+2712,1306,trevo
+2713,1307,Amendoim
+2714,1308,Cercosporiose
+2715,1309,Podridão-dos-frutos
+2716,1310,Ferrugem
+2717,1311,Podridão-radicular
+2718,1312,Manchas-foliares
+2719,1120,Manchas-foliares
+2720,1116,Oidio
+2721,1313,Manchas-foliares
+2722,1314,Manchas-foliares
+2723,1315,Manchas-foliares
+2724,570,Manchas- foliares
+2725,1316,Cercosporiose
+2726,1316,Olho-de-rã
+2727,174,Mancha preta
+2728,1317,Ferrugem
+2729,970,Mancha foliar
+2730,1318,Cercosporiose
+2731,1319,Ferrugem
+2732,1320,Mildio
+2733,1321,Oídio
+2734,785,Podridãodo-fruto
+2735,513,Atracnose
+2736,528,Mancha-de-phytophthora
+2737,520,Mofo preto
+2738,1322,Mancha-de-alternaria
+2739,1323,-
+2740,1324,-
+2741,1325,-
+2742,1326,Galha-da-coroa-e-raiz
+2743,1327,algodão-de-seda
+2744,1327,ciúme
+2745,1327,flor-de-seda
+2746,1328,Ácaro-branco
+2747,1296,Ácaro bronzeado
+2748,1329,Ácaro
+2749,1330,Míldio
+2750,1331,-
+2751,1332,=
+2752,1125,-
+2753,1333,-
+2754,1334,-
+2755,254,Curuquerê
+2756,1335,Percevejo-cinzento-do-fumo
+2757,502,Lagarta do trigo
+2758,199,Oídio das curcubitáceas
+2759,1337,Goiabinha
+2760,1339,assa-peixe-roxo
+2761,1339,cambarazinho
+2762,1339,cambarázinho-roxo
+2763,1342,falso-alecrim-da-praia
+2764,255,Borboleta do Coqueiro
+2765,255,Mandruvá
+2766,1054,Lagarta do coco
+2767,1054,Lagarta do coqueiro
+2768,1054,lagarta-do-coqueiro
+2769,1054,lagarta-desfolhadora-das-palmeiras
+2770,1054,lagarta-do-coco
+2771,216,Mosca-Minadora
+2772,1343,Antracnose
+2773,1344,Pulgão-Oriental
+2774,1344,Pulgão-preto
+2775,1344,pulgão
+2776,1345,Pulgão
+2777,240,Ácaro-vemelho
+2778,1346,Áfideo-negro
+2779,745,Ácaro-vemelho
+2780,1347,Ácaro-vemelho
+2781,1348,Pulgão-verde-da-macieira
+2782,1349,Ácaro-vermelho-do-cafeeiro
+2783,1348,Pulgão
+2784,225,.
+2785,1350,-
+2786,131,-
+2787,876,Murcha de fusarium
+2788,500,Lagarta enroladeira
+2789,1351,Carvão
+2790,1351,Carvão-nú
+2791,1352,Broca gigante
+2792,353,Podridão-de-raiz
+2793,522,tombamento
+2794,696,-
+2795,202,-
+2796,1353,Cylindrocladium candelabrum
+2797,1354,Mancha-foliar-de-Cylindrocladium
+2798,1355,Cylindrocladium
+2799,1356,Mancha angular
+2800,1357,Ferrugem
+2801,539,-
+2802,1358,Lagarta
+2803,1292,Lagarta-militar
+2804,302,Lagarta-da-Espiga
+2805,228,Traça-do-tomateiro (
+2806,1023,Moscas minadoras
+2807,825,Cigarrinha-verde-da-vinha
+2808,289,Falsa medideira
+2809,342,Falsa medideira
+2810,234,mancha-alvo
+2811,235,Septoria tritici
+2812,271,Stagonospora nodorum
+2813,149,Uromyces appendiculatus
+2814,271,Septoriose-das-glumas
+2815,1359,Podridão-basal-da-haste
+2816,1359,Podridão-das-raízes
+2817,490,-
+2818,1359,-
+2819,1360,aguapé
+2820,1360,chapéu-de-couro
+2821,1360,congonha-do-brejo
+2822,1361,-
+2823,1362,Psilídio
+2824,198,Didymella bryoniae
+2825,1363,Ramulária
+2826,129,Rhizoctoniose
+2827,803,Lagarta Marrom
+2828,1364,Bicudo
+2829,1364,Broca-do-olho-do-coqueiro
+2830,1365,Mancha-circular
+2831,1366,Mancha-das-glumelas
+2832,1089,Queima-das-glumelas
+2833,749,Fungo-de-pós-colheita
+2834,1367,erva salsa
+2835,1368,capim-do-banhado
+2836,1368,painço
+2837,1369,mancha parda
+2838,1370,Mancha de Cladosporium
+2839,154,oídio
+2840,230,macha amarela
+2841,155,macha amarela
+2842,188,ferrugem
+2843,863,Gomose
+2844,863,Podridão-das-raízes
+2845,1371,Míldio
+2846,489,Podridão-das-raízes
+2847,489,podridão-do-fruto
+2848,899,Podridão-das-raízes
+2849,633,Podridão aquosa
+2850,353,Mancha-necrótica
+2851,353,Podridão-mole
+2852,353,Mancha pestana
+2853,1372,Podridão-das-raízes
+2854,1372,Podridão-mole-das-raízes
+2855,1075,Nematoide das galhas
+2856,635,Nematoide reniformis
+2857,635,Nematoide
+2858,1373,alface
+2859,507,Mancha-de-alternaria
+2860,1375,arrebenta-cavalo
+2861,1375,joá
+2862,1375,joá-bravo
+2863,1376,capim-de-uma-só-cabeça
+2864,1376,junquinho
+2865,997,Oídio
+2866,1280,.
+2867,1377,Traça-da-bananeira
+2868,666,Galinhola
+2869,740,Pulgão
+2870,1378,Cochonilha
+2871,1379,Cochonilha
+2872,942,Pulgão
+2873,468,Cochonilha
+2874,645,Cochonilha
+2875,1380,Cochonilha
+2876,1381,Pulgão-da-cenoura
+2877,1346,Afídio de feijão preto
+2878,1346,Pulgão
+2879,1382,piolho-da-ervilha
+2880,1382,pulgão-da-ervilha
+2881,1383,Cochonilha-do-rizoma
+2882,1384,Pulgão
+2883,1385,Pulgão
+2884,1385,Pulgão da base do pecíolo
+2885,1223,Pulgão-verde
+2886,1386,Pulgão
+2887,1386,Pulgão das folhas
+2888,1387,Cochonilha
+2889,1388,Cochonilha
+2890,1388,Cochonilha-pulverulenta
+2891,1389,Pulgão
+2892,1389,Pulgão-do-cacaueiro
+2893,1390,Mosca-das-frutas
+2894,1391,Filoxera
+2895,1392,Aruá
+2896,129,-
+2897,1393,acácia-de-flor-vermelha
+2898,1393,angiquinho-grande
+2899,1394,Cladosporium
+2900,1395,Rincosporiose
+2901,156,Podridão-de-Fusarium
+2902,350,Aspergillus
+2903,1396,penicilium
+2904,1397,Mancha Foliar de Bipolaris
+2905,1398,Coró
+2906,1399,Cancro-da-haste
+2907,1400,Fusariose
+2908,386,Cupim
+2909,1401,Mancha-marrom
+2910,268,Podridão-cinza-do-capítulo
+2911,144,Coró-da-soja
+2912,1402,amarra-pinto
+2913,1402,erva-tostão
+2914,1402,pega-pinto
+2915,908,Traça dos cereais
+2916,1403,Ferrugem
+2917,1404,Manha ocular
+2918,522,Gomose
+2919,522,Podridão do fruto
+2920,1405,Entemosporiose
+2921,1406,Entemosporiose
+2922,1407,Podridão preta
+2923,1408,Sarna
+2924,349,Pinta preta
+2925,522,Requeima
+2926,522,Podridão do colo
+2927,1409,Antracnose
+2928,1410,Podridão negra
+2929,1411,Capim-marmelada
+2930,1411,Papuã
+2931,1205,Lagarta-das-vagens
+2932,1412,Capim-navalha
+2933,1412,Capimcapivara
+2934,1413,capim-capeta
+2935,1413,capim-cortísia
+2936,1413,capim-moirão
+2937,347,Podridão-das-raízes
+2938,497,mosca-do-mediterrâneo
+2939,497,Mosca do mediterrâneo
+2940,283,Mosca sul-americana
+2941,1414,Cigarrinha das pastagens
+2942,413,Mancha-Aquosa
+2943,1415,Podridão de escama
+2944,271,Manchas-das-glumas
+2945,1416,Ferrugem
+2946,1417,Sarna-prateada
+2947,1418,erva-palha
+2948,1418,picão
+2949,1418,picão-grande
+2950,1419,capim-galinha
+2951,1419,grama-azul
+2952,1419,pastinho-de-inverno
+2953,1420,ortiga
+2954,1420,queimadeira
+2955,1420,urtiga
+2956,1421,Fuligem
+2957,811,Broca-dos-fruto
+2958,986,Gafanhotos
+2959,1052,Gafanhotos
+2960,242,traça
+2961,1422,Pinta-preta
+2962,1422,Requeima
+2963,1422,Varíola
+2964,647,Mofo-cinzento
+2965,1423,Septoriose
+2966,1424,Mancha-de-Septoria
+2967,1424,Septoriose
+2968,1425,Mofo-branco
+2969,122,Nematoide
+2970,215,Nematoide
+2971,757,Podridão-de-fusarium
+2972,1289,Nematoides-das-galhas
+2973,123,Nematoide das lesões radiculares
+2974,1426,Meloidoginose
+2975,1426,Nematóide-das-galhas
+2976,1427,Meloidoginose
+2977,1427,Nematóide-do-descascamento
+2978,215,Nematoide-das-lesões-radiculares
+2979,123,Nematoide-das-lesões-radiculares
+2980,215,Nematóides-das-galhas
+2981,1257,Nematóides-das-galhas
+2982,215,Nematoides-das-galhas
+2983,122,Nematoides-das-galhas
+2984,123,Nematóide das lesões radiculares
+2985,123,-
+2986,796,Nematoides-das-galhas
+2987,219,-
+2988,122,-
+2989,220,"Nematoide-das-lesões,"
+2990,220,Nematoide-das-lesões
+2991,215,-
+2992,638,cigarrinha do pedúnculo
+2993,1428,Cochonilha-dura
+2994,1429,Ácaro rajado
+2995,1430,Lesma
+2996,1302,-
+2997,1431,Mancha-em-Rede
+2998,1432,Ferrugem da folha
+2999,757,amarelecimento de fusarium
+3000,123,Nematoide das lesões
+3001,156,Podridão-de-giberela
+3002,156,Podridão-rosada-da-pontada-da-espiga
+3003,425,podridão da raiz
+3004,693,Ferrugem da folha
+3005,1433,Bacteria
+3006,1434,Fusariose
+3007,129,Mela
+3008,129,Podridão radicular
+3009,1435,Podridão-de-raízes
+3010,1435,Podridão-do-colo
+3011,129,Tombamneto
+3012,870,Murcha-de-Fusarium
+3013,898,-
+3014,126,-
+3015,1270,Mofo dos grãos
+3016,1436,Mancha-reticular
+3017,1401,Queima-das-glumelas
+3018,129,Podridão-radicular
+3019,757,-
+3020,1437,Mela-das-sementes
+3021,1438,Mancha-foliar
+3022,1438,Podridão-do-colo-e-raiz
+3023,490,Podridão-radicular
+3024,1439,cipó-de-galinha
+3025,1439,favinha-brava
+3026,1439,feijãozinho
+3027,1440,falso-capim-de-rosa
+3028,1440,tiririca
+3029,1440,tiririca-crespa
+3030,129,podridão da raiz
+3031,1441,--
+3032,621,Mancha de alternaria
+3033,309,-

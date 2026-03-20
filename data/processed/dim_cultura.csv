@@ -1,0 +1,237 @@
+id_cultura,cultura
+1,Todas as culturas
+2,Batata
+3,Arroz
+4,Cana-de-açúcar
+5,Pastagens
+6,Eucalipto
+7,Algodão
+8,Arroz irrigado
+9,Aveia
+10,Café
+11,Milho
+12,Soja
+13,Sorgo
+14,Trigo
+15,Centeio
+16,Cevada
+17,Milheto
+18,Algodão OGM
+19,Milho OGM
+20,Soja OGM
+21,Duboisia
+22,Triticale
+23,Palma forrageira
+24,Citros
+25,Tomate
+26,Feijão
+27,Amendoim
+28,Cebola
+29,Ervilha
+30,Feijão-caupi
+31,Grão-de-bico
+32,Lentilha
+33,Crisântemo
+34,Fumo
+35,Melão
+36,Abacaxi
+37,Alho
+38,Banana
+39,Berinjela
+40,Beterraba
+41,Cacau
+42,Cenoura
+43,Figo
+44,Gladíolo
+45,Goiaba
+46,Mamão
+47,Manga
+48,Maracujá
+49,Melancia
+50,Morango
+51,Pepino
+52,Pessego
+53,Rosa
+54,Uva
+55,Álamo
+56,Girassol
+57,Coco
+58,Feijão-vagem
+59,Maçã
+60,Pera
+61,Pimentão
+62,Tabaco
+63,Cravo
+64,Batata-doce
+65,Brócolis
+66,Couve
+67,Couve-chinesa
+68,Couve-de-bruxelas
+69,Couve-flor
+70,Jiló
+71,Mandioca
+72,Pimenta
+73,Quiabo
+74,Repolho
+75,Feijão-fava
+76,Feijão-guandu
+77,Pinhão manso
+78,Abacate
+79,Acelga
+80,Agrião
+81,Alface
+82,Almeirão
+83,Chalota
+84,Chicória
+85,Espinafre
+86,Estévia
+87,Feijão-mungo
+88,Mostarda
+89,Rúcula
+90,Anonáceas
+91,Azeitona
+92,Cupuaçu
+93,Guaraná
+94,Lichia
+95,Macadâmia
+96,Noz-pecã
+97,Romã
+98,Gramados
+99,Feijões
+100,Abobrinha
+101,Plantas Ornamentais
+102,Arroz - Armazenado
+103,Cevada - Armazenado
+104,Milho - Armazenado
+105,Trigo - Armazenado
+106,Abóbora
+107,Ameixa
+108,Antúrio
+109,Begônia
+110,Caju
+111,Caqui
+112,Gérbera
+113,Kalanchoe
+114,Lisianthus
+115,Nectarina
+116,Batata yacon
+117,Batata-salsa
+118,Camomila
+119,Coentro
+120,Gengibre
+121,Inhame
+122,Salsa
+123,Mandioquinha-salsa
+124,Seringueira
+125,Pinus
+126,
+127,Acerola
+128,Amora
+129,Açaí
+130,Carambola
+131,Cará
+132,Chuchu
+133,Framboesa
+134,Kiwi
+135,Marmelo
+136,Maxixe
+137,Mirtilo
+138,Nabo
+139,Nêspera
+140,Pupunha
+141,Rabanete
+142,Seriguela
+143,Dendê
+144,Oliveira
+145,Aveia preta
+146,Castanha-do-pará
+147,Canola
+148,Lupulo
+149,Mangaba
+150,Pinhão
+151,Pitaya
+152,Uva de mesa
+153,Alecrim
+154,Alho porró
+155,Cebolinha
+156,Manjericão
+157,Manjerona
+158,Pitanga
+159,Salvia
+160,Arroz Sequeiro
+161,Gergelim
+162,Linhaça
+163,Mamona
+164,Limão
+165,Alstroeméria
+166,Celósia
+167,Hibiscos
+168,Orquídeas
+169,Poinsétia
+170,Populus
+171,Erva-mate
+172,Hortelã
+173,Orégano
+174,Tomate envarado
+175,Tratamento de solo
+176,Não Atrelado a Cultura
+177,Trigo-mourisco
+178,Aipo
+179,Carinata
+180,Acácia negra
+181,Azevém
+182,Farelo de soja - Armazenado
+183,Farinhas - Armazenada
+184,Cupim-de-monte
+185,Atemóia
+186,Azaléia
+187,Cana-de-açúcar OGM
+188,Erva-doce
+189,Alfafa
+190,Macaúba
+191,Cajá
+192,Acácia mangium
+193,Cedro
+194,Cedro Australiano
+195,Mogno
+196,Mogno Africano
+197,Paricá
+198,Teca
+199,Gipsofila
+200,Lírio
+201,Violeta
+202,Castanha-de-caju
+203,Farinha-de-trigo - Armazenada
+204,Pinha
+205,Castanhola
+206,Acácia
+207,Bambu
+208,Estragão
+209,Hortênsia
+210,Araticum
+211,Cherimóia
+212,Fruta-de-conde
+213,Graviola
+214,Aveia Branca
+215,Pimenta-do-reino
+216,Amaryllis
+217,Aralia elegante
+218,Aralia japonesa
+219,Ardísia
+220,Bromelia
+221,Cerinha
+222,Cheflera pequena
+223,Cineraria
+224,Cipó uva
+225,Comigo-ninguém-pode
+226,Croton
+227,Lirio da paz
+228,Margarida
+229,Samambaias
+230,Boca-de-Leão
+231,Aspargo
+232,Jambo
+233,Mostarda da etiópia
+234,Araucária
+235,Flores de corte
+236,Eucalipito OGM
